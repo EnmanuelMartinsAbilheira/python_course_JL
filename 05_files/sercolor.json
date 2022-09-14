@@ -1,0 +1,3939 @@
+{
+    "Clientes": [{
+            "Cliente": 1,
+            "Nome": "Stylish As You, Unipessoal, Lda",
+            "Nome Fiscal": "Stylish As You, Unipessoal, Lda",
+            "Morada": "Travessa da Bou�a do Cabo de Cima, n. 7",
+            "Telefone": "",
+            "N. Contribuinte": 514855983
+        },
+        {
+            "Cliente": 2,
+            "Nome": "Spormex Events & Exhibitions, Lda",
+            "Nome Fiscal": "Spormex Events & Exhibitions, Lda",
+            "Morada": "Parque Industrial de Braga - 2� Fase Celeiros",
+            "Telefone": "",
+            "N. Contribuinte": 503037605
+        },
+        {
+            "Cliente": 3,
+            "Nome": "Socicorreia Engenharia, S.A",
+            "Nome Fiscal": "Socicorreia Engenharia, S.A",
+            "Morada": "Parque Industrial de Machico, lote 3",
+            "Telefone": "",
+            "N. Contribuinte": 511283806
+        },
+        {
+            "Cliente": 4,
+            "Nome": "SERNIS-Forma��o e Solu��es Tecnol�gicas, Lda",
+            "Nome Fiscal": "SERNIS-Forma��o e Solu��es Tecnol�gicas, Lda",
+            "Morada": "Quinta do Carreiro, Lote 9/14",
+            "Telefone": "",
+            "N. Contribuinte": 502756063
+        },
+        {
+            "Cliente": 5,
+            "Nome": "Ramalhauto, Rep. de Ve�culos Lda",
+            "Nome Fiscal": "Ramalhauto, Rep. de Ve�culos Lda",
+            "Morada": "Rua Abade Loureira",
+            "Telefone": "",
+            "N. Contribuinte": 500464189
+        },
+        {
+            "Cliente": 6,
+            "Nome": "Pragricola - Produtos para Agricultura, Lda",
+            "Nome Fiscal": "Pragricola - Produtos para Agricultura, Lda",
+            "Morada": "Rua do Couteiro,",
+            "Telefone": "",
+            "N. Contribuinte": 501807764
+        },
+        {
+            "Cliente": 7,
+            "Nome": "Pichelaria Veiga, Lda",
+            "Nome Fiscal": "Pichelaria Veiga, Lda",
+            "Morada": "Parque Industrial de Celeir�s, n� 42, 1� Fase",
+            "Telefone": "",
+            "N. Contribuinte": 501720111
+        },
+        {
+            "Cliente": 8,
+            "Nome": "Os Criativos",
+            "Nome Fiscal": "Perfeitamatriz. Lda",
+            "Morada": "Avenida do Parque, Parque Industrial de Celeir�s",
+            "Telefone": "",
+            "N. Contribuinte": 514758597
+        },
+        {
+            "Cliente": 9,
+            "Nome": "Pedro Nuno Ara�jo, unipessoal Lda",
+            "Nome Fiscal": "Pedro Nuno Ara�jo, unipessoal Lda",
+            "Morada": "Rua Damiana Maria Silva, 24, Loja 8",
+            "Telefone": "",
+            "N. Contribuinte": 513352198
+        },
+        {
+            "Cliente": 10,
+            "Nome": "Pi Creative Studio, Lda",
+            "Nome Fiscal": "Pi Creative Studio, Lda",
+            "Morada": "P�lo de Neg�cios de Braga",
+            "Telefone": "",
+            "N. Contribuinte": 503441678
+        },
+        {
+            "Cliente": 11,
+            "Nome": "O Feliz - Metalomec�nica, S.A.",
+            "Nome Fiscal": "O Feliz - Metalomec�nica, S.A.",
+            "Morada": "Avenida de S. Louren�o, 41",
+            "Telefone": "",
+            "N. Contribuinte": 500853177
+        },
+        {
+            "Cliente": 12,
+            "Nome": "Newcar Pro, Centros Auto, Lda",
+            "Nome Fiscal": "Newcar Pro, Centros Auto, Lda",
+            "Morada": "Parque Industrial de Frossos Rua da Industrias",
+            "Telefone": "",
+            "N. Contribuinte": 509975313
+        },
+        {
+            "Cliente": 13,
+            "Nome": "Municipio de Braga",
+            "Nome Fiscal": "Municipio de Braga",
+            "Morada": "Pra�a do Municipio",
+            "Telefone": "",
+            "N. Contribuinte": 506901173
+        },
+        {
+            "Cliente": 14,
+            "Nome": "Marcelo Souza Unipessoal, Lda",
+            "Nome Fiscal": "Marcelo Souza Unipessoal, Lda",
+            "Morada": "Rua do Souto, 135",
+            "Telefone": "",
+            "N. Contribuinte": 514863927
+        },
+        {
+            "Cliente": 15,
+            "Nome": "Manuela Fernandes, Unipessoal, Lda.",
+            "Nome Fiscal": "Manuela Fernandes, Unipessoal, Lda.",
+            "Morada": "Rua D. Francisco Duarte n� 75, loja n� 5, S.Victor",
+            "Telefone": "",
+            "N. Contribuinte": 510382916
+        },
+        {
+            "Cliente": 16,
+            "Nome": "Magnivertente - Serralharia Civil, Lda",
+            "Nome Fiscal": "Magnivertente - Serralharia Civil, Lda",
+            "Morada": "Rua da Igreja Lote E",
+            "Telefone": "",
+            "N. Contribuinte": 510247202
+        },
+        {
+            "Cliente": 17,
+            "Nome": "GC Consulting",
+            "Nome Fiscal": "GC Consulting",
+            "Morada": "Rua Nicolau Coelho, N� 1",
+            "Telefone": "",
+            "N. Contribuinte": 513939806
+        },
+        {
+            "Cliente": 18,
+            "Nome": "Francisco & Artur, Repara��o de Jantes Lda.",
+            "Nome Fiscal": "Francisco & Artur, Repara��o de Jantes Lda.",
+            "Morada": "Parque Industrial de Sete Fontes",
+            "Telefone": "",
+            "N. Contribuinte": 504811029
+        },
+        {
+            "Cliente": 19,
+            "Nome": "Fitness Club Braga, Lda",
+            "Nome Fiscal": "Fitness Club Braga, Lda",
+            "Morada": "Avenida D. Jo�o II - Edificio Polo de Neg�cios",
+            "Telefone": "",
+            "N. Contribuinte": 504220616
+        },
+        {
+            "Cliente": 20,
+            "Nome": "Exemplos - Constru��o e Remodela��o de interiores",
+            "Nome Fiscal": "Exemplos - Arquitectura e Const. de Interiores Lda",
+            "Morada": "Parque Industrial de Ada�fe, lote H1",
+            "Telefone": "",
+            "N. Contribuinte": 503706876
+        },
+        {
+            "Cliente": 21,
+            "Nome": "Escala 78 constru��es, Lda.",
+            "Nome Fiscal": "Escala 78 constru��es, Lda.",
+            "Morada": "Centro de Neg�cios Ideia Atl�ntico",
+            "Telefone": "",
+            "N. Contribuinte": 509859585
+        },
+        {
+            "Cliente": 22,
+            "Nome": "Enancer - Electr�nica, S. A.",
+            "Nome Fiscal": "Enancer - Electr�nica, S. A.",
+            "Morada": "Rua Max Grundig, 9",
+            "Telefone": "",
+            "N. Contribuinte": 508307341
+        },
+        {
+            "Cliente": 23,
+            "Nome": "Empresa do Diario do Minho, L.da",
+            "Nome Fiscal": "Empresa do Diario do Minho, L.da",
+            "Morada": "Rua S.ta Margarida, 4 - A",
+            "Telefone": "",
+            "N. Contribuinte": 504443135
+        },
+        {
+            "Cliente": 24,
+            "Nome": "D F Block, Lda",
+            "Nome Fiscal": "D F Block, Lda",
+            "Morada": "Lugar da Talhadinha, Lote 11 Superior",
+            "Telefone": "",
+            "N. Contribuinte": 508951755
+        },
+        {
+            "Cliente": 25,
+            "Nome": "Cortegeral - C. M. E. de Seguran�a e Inc�ndio, Lda",
+            "Nome Fiscal": "Cortegeral - C. M. E. de Seguran�a e Inc�ndio, Lda",
+            "Morada": "Av. S�o Louren�o, n. 75",
+            "Telefone": "",
+            "N. Contribuinte": 504802054
+        },
+        {
+            "Cliente": 26,
+            "Nome": "Copissaurio, Lda",
+            "Nome Fiscal": "Copissaurio, Lda",
+            "Morada": "Campus Gualtar Universidade do Minho",
+            "Telefone": "",
+            "N. Contribuinte": 507311736
+        },
+        {
+            "Cliente": 27,
+            "Nome": "Braguinox, Industria de Rec. de Metais, Lda",
+            "Nome Fiscal": "Braguinox, Industria de Rec. de Metais, Lda",
+            "Morada": "Rua da Devesa,13 Parque Industrial de Celeir�s",
+            "Telefone": "",
+            "N. Contribuinte": 504361139
+        },
+        {
+            "Cliente": 28,
+            "Nome": "BNH CLOTHING LDA",
+            "Nome Fiscal": "BNH CLOTHING LDA",
+            "Morada": "Rua Lu�s Ant�nio Correia n�19",
+            "Telefone": "",
+            "N. Contribuinte": 514019280
+        },
+        {
+            "Cliente": 29,
+            "Nome": "Barbal - Pesagem Electr�nica, Lda",
+            "Nome Fiscal": "Barbal - Pesagem Electr�nica, Lda",
+            "Morada": "Rua Regos, lote 3 e 4",
+            "Telefone": "",
+            "N. Contribuinte": 502473550
+        },
+        {
+            "Cliente": 30,
+            "Nome": "Astroabax, Unipessoal, Lda",
+            "Nome Fiscal": "Astroabax, Unipessoal, Lda",
+            "Morada": "Tv. Antonio Menici Malheiro, n�32",
+            "Telefone": "",
+            "N. Contribuinte": 508739497
+        },
+        {
+            "Cliente": 31,
+            "Nome": "Vinha Nova Restaurante",
+            "Nome Fiscal": "Assertivaposta, Lda",
+            "Morada": "Rua Jos� Carvalho S� Miranda, N� 40-44 R/C",
+            "Telefone": "",
+            "N. Contribuinte": 514962160
+        },
+        {
+            "Cliente": 32,
+            "Nome": "Andreia, S. A.",
+            "Nome Fiscal": "Andreia, S. A.",
+            "Morada": "Travessa de Rebanhos - Apartado 1095",
+            "Telefone": "",
+            "N. Contribuinte": 502298499
+        },
+        {
+            "Cliente": 33,
+            "Nome": "Agere- Emp. de �guas, Eflu. e Res�duos de Braga EM",
+            "Nome Fiscal": "Agere- Emp. de �guas, Eflu. e Res�duos de Braga EM",
+            "Morada": "Pra�a Conde de Agrolongo, 115",
+            "Telefone": "",
+            "N. Contribuinte": 504807692
+        },
+        {
+            "Cliente": 34,
+            "Nome": "Promobrinde",
+            "Nome Fiscal": "A. Silva, Lda",
+            "Morada": "Parque Industrial De Celeir�s, 2� Fase Lote 1",
+            "Telefone": "",
+            "N. Contribuinte": 504205536
+        },
+        {
+            "Cliente": 35,
+            "Nome": "Workinov II, arquitectura e constru��o,LDA",
+            "Nome Fiscal": "Workinov II, arquitectura e constru��o,LDA",
+            "Morada": "Pra�a Paulo Vidal Loja n� 19 - Lama��es",
+            "Telefone": "",
+            "N. Contribuinte": 510645445
+        },
+        {
+            "Cliente": 36,
+            "Nome": "VSPT Unipessoal, Lda",
+            "Nome Fiscal": "VSPT Unipessoal, Lda",
+            "Morada": "Rua Prof. Henrique Barros, lote D1, sala 7",
+            "Telefone": "",
+            "N. Contribuinte": 509725295
+        },
+        {
+            "Cliente": 37,
+            "Nome": "Vilaminho - Inova��o Imobili�ria, S.A.",
+            "Nome Fiscal": "Vilaminho - Inova��o Imobili�ria, S.A.",
+            "Morada": "Largo S. Jo�o do Souto, 14-15",
+            "Telefone": "",
+            "N. Contribuinte": 502475340
+        },
+        {
+            "Cliente": 38,
+            "Nome": "Varibasic, Lda",
+            "Nome Fiscal": "Varibasic, Lda",
+            "Morada": "Rua Nova de St� Cruz, n� 171",
+            "Telefone": "",
+            "N. Contribuinte": 510705626
+        },
+        {
+            "Cliente": 39,
+            "Nome": "Uni�o de Freguesias de Ferreiros e Gondizalves",
+            "Nome Fiscal": "Uni�o de Freguesias de Ferreiros e Gondizalves",
+            "Morada": "Rua Maria Am�lia Bastos Leite, N. 182",
+            "Telefone": "",
+            "N. Contribuinte": 510836780
+        },
+        {
+            "Cliente": 40,
+            "Nome": "Tractorminho, Lda",
+            "Nome Fiscal": "Tractorminho, Lda",
+            "Morada": "Rua do Pinhal, 4-14",
+            "Telefone": "",
+            "N. Contribuinte": 501062327
+        },
+        {
+            "Cliente": 41,
+            "Nome": "Tipografia de Priscos, Lda.",
+            "Nome Fiscal": "Tipografia de Priscos, Lda.",
+            "Morada": "Rua de S. Tom� n�6",
+            "Telefone": "",
+            "N. Contribuinte": 502156074
+        },
+        {
+            "Cliente": 42,
+            "Nome": "TD Cork Lda",
+            "Nome Fiscal": "TD Cork Lda",
+            "Morada": "Rua de Meladas, 105",
+            "Telefone": "",
+            "N. Contribuinte": 513751262
+        },
+        {
+            "Cliente": 43,
+            "Nome": "Tarefas Pioneiras, Lda",
+            "Nome Fiscal": "Tarefas Pioneiras, Lda",
+            "Morada": "Rua Quinta da Armada, Pav.6",
+            "Telefone": "",
+            "N. Contribuinte": 510006647
+        },
+        {
+            "Cliente": 44,
+            "Nome": "Sopex GmbH Facility Services",
+            "Nome Fiscal": "Sopex GmbH Facility Services",
+            "Morada": "Grabenstrasse 2",
+            "Telefone": "",
+            "N. Contribuinte": "E-165.409.151MWST"
+        },
+        {
+            "Cliente": 45,
+            "Nome": "Koker",
+            "Nome Fiscal": "Catarina Conde Figueiras",
+            "Morada": "Rua Marvila De Cima, N� 9",
+            "Telefone": "",
+            "N. Contribuinte": 245373942
+        },
+        {
+            "Cliente": 46,
+            "Nome": "Filinto Mota, SUCRS, S. A.",
+            "Nome Fiscal": "Filinto Mota, SUCRS, S. A.",
+            "Morada": "Avenida de Sequeira, n� 20",
+            "Telefone": "",
+            "N. Contribuinte": 500115966
+        },
+        {
+            "Cliente": 47,
+            "Nome": "Lopes & Irm�o, Lda",
+            "Nome Fiscal": "Lopes & Irm�o, Lda",
+            "Morada": "P�. Alexandre Herculano Nr. 48,49,50",
+            "Telefone": "",
+            "N. Contribuinte": 500374783
+        },
+        {
+            "Cliente": 48,
+            "Nome": "Modarte, Lda",
+            "Nome Fiscal": "Modarte, Lda",
+            "Morada": "Quinta de Santa Maria",
+            "Telefone": "",
+            "N. Contribuinte": 500829110
+        },
+        {
+            "Cliente": 49,
+            "Nome": "Soarauto - J. Soares e Rodrigues Lda",
+            "Nome Fiscal": "Soarauto - J. Soares e Rodrigues Lda",
+            "Morada": "Rua Carlos Magalh�es 61-65, Cabanas - Dume",
+            "Telefone": "",
+            "N. Contribuinte": 501424571
+        },
+        {
+            "Cliente": 50,
+            "Nome": "Vertice - Marketing, Exposi�oes e Congressos, Lda.",
+            "Nome Fiscal": "Vertice - Marketing, Exposi�oes e Congressos, Lda.",
+            "Morada": "Praceta Escola do Magist�rio, 38",
+            "Telefone": "",
+            "N. Contribuinte": 502593180
+        },
+        {
+            "Cliente": 51,
+            "Nome": "CIFIL Constru��es S.A.",
+            "Nome Fiscal": "CIFIL Constru��es S.A.",
+            "Morada": "Rua da Rep�blica, N. 93",
+            "Telefone": "",
+            "N. Contribuinte": 503273228
+        },
+        {
+            "Cliente": 52,
+            "Nome": "Pedro Braga Cl�nica de Ortodontia, Lda",
+            "Nome Fiscal": "Pedro Braga Cl�nica de Ortodontia, Lda",
+            "Morada": "Rua Dr Humberto Soeiro, 27, 6� dt",
+            "Telefone": "",
+            "N. Contribuinte": 504681001
+        },
+        {
+            "Cliente": 53,
+            "Nome": "Justino Castro & Jos� Martins, Lda",
+            "Nome Fiscal": "Justino Castro & Jos� Martins, Lda",
+            "Morada": "Rua do Jogo, n� 70",
+            "Telefone": "",
+            "N. Contribuinte": 505813122
+        },
+        {
+            "Cliente": 54,
+            "Nome": "PRONUTRIMEDATIVE, LDA",
+            "Nome Fiscal": "PRONUTRIMEDATIVE, LDA",
+            "Morada": "Rua Jo�o de Deus 197",
+            "Telefone": "",
+            "N. Contribuinte": 506468216
+        },
+        {
+            "Cliente": 55,
+            "Nome": "Brainhouse TI - Unipessoal, Lda",
+            "Nome Fiscal": "Brainhouse TI - Unipessoal, Lda",
+            "Morada": "Rua 25 de Abril 408",
+            "Telefone": "",
+            "N. Contribuinte": 506852458
+        },
+        {
+            "Cliente": 56,
+            "Nome": "FC DIGITAL, LDA",
+            "Nome Fiscal": "FC DIGITAL, LDA",
+            "Morada": "Rua S�o Bartolomeu, n� 23",
+            "Telefone": "",
+            "N. Contribuinte": 506899446
+        },
+        {
+            "Cliente": 57,
+            "Nome": "DESIGNGEN - Comunica��o Visual, Lda",
+            "Nome Fiscal": "DESIGNGEN - Comunica��o Visual, Lda",
+            "Morada": "Av. da Liberdade, 615 - 3� piso, Salas 10-12",
+            "Telefone": "",
+            "N. Contribuinte": 507493532
+        },
+        {
+            "Cliente": 58,
+            "Nome": "Petrobox, Lda.",
+            "Nome Fiscal": "Petrobox, Lda.",
+            "Morada": "Estrada Nacional 102 - Lugar da Ribeirinha",
+            "Telefone": "",
+            "N. Contribuinte": 508756537
+        },
+        {
+            "Cliente": 59,
+            "Nome": "Plexicril, Lda",
+            "Nome Fiscal": "Plexicril, Lda",
+            "Morada": "Rua Nossa Senhora de F�tima n� 525",
+            "Telefone": "",
+            "N. Contribuinte": 509804950
+        },
+        {
+            "Cliente": 60,
+            "Nome": "Inception Architects Studio unipessoal Lda",
+            "Nome Fiscal": "Inception Architects Studio unipessoal Lda",
+            "Morada": "Rua M�rio de Almeida, N. 80, 4� esq., tr�s",
+            "Telefone": "",
+            "N. Contribuinte": 509963706
+        },
+        {
+            "Cliente": 61,
+            "Nome": "Calculacertado, Media��o Imobili�ria, Lda",
+            "Nome Fiscal": "Calculacertado, Media��o Imobili�ria, Lda",
+            "Morada": "Rua Carlos Teixeira, 39, 2� DTO",
+            "Telefone": "",
+            "N. Contribuinte": 510860443
+        },
+        {
+            "Cliente": 62,
+            "Nome": "Maria Berta Oliveira, unipessoal Lda.",
+            "Nome Fiscal": "Maria Berta Oliveira, unipessoal Lda.",
+            "Morada": "Rua Paio Galv�o, 28",
+            "Telefone": "",
+            "N. Contribuinte": 513031626
+        },
+        {
+            "Cliente": 63,
+            "Nome": "AFP S A T, UNIPESSOAL LDA",
+            "Nome Fiscal": "AFP S A T, UNIPESSOAL LDA",
+            "Morada": "R. Profa. Alda Brand�o 24",
+            "Telefone": "",
+            "N. Contribuinte": 513340580
+        },
+        {
+            "Cliente": 64,
+            "Nome": "Evidentemagia unipessoal Lda",
+            "Nome Fiscal": "Evidentemagia unipessoal Lda",
+            "Morada": "Rua da Ribeira Brava, 17",
+            "Telefone": "",
+            "N. Contribuinte": 513520759
+        },
+        {
+            "Cliente": 65,
+            "Nome": "Faerdig Lda.",
+            "Nome Fiscal": "Faerdig Lda.",
+            "Morada": "Rua Domingos Jos� Ara�jo  n. 15",
+            "Telefone": "",
+            "N. Contribuinte": 514004371
+        },
+        {
+            "Cliente": 66,
+            "Nome": "Marta Ferreira & Lu�s Leite, Lda",
+            "Nome Fiscal": "Marta Ferreira & Lu�s Leite, Lda",
+            "Morada": "Rua dos Belos Ares, Pavilh�o Q",
+            "Telefone": "",
+            "N. Contribuinte": 515182931
+        },
+        {
+            "Cliente": 67,
+            "Nome": "Solstone sl",
+            "Nome Fiscal": "Solstone sl",
+            "Morada": "Pol. Ind. Las v�as 4",
+            "Telefone": "",
+            "N. Contribuinte": "B-74199761"
+        },
+        {
+            "Cliente": 68,
+            "Nome": "Lidia Isabel da Rocha Ferreira",
+            "Nome Fiscal": "Lidia Isabel da Rocha Ferreira",
+            "Morada": "Braga",
+            "Telefone": "",
+            "N. Contribuinte": 208528911
+        },
+        {
+            "Cliente": 69,
+            "Nome": "Oficina S�o Jos�",
+            "Nome Fiscal": "Oficina S�o Jos�",
+            "Morada": "Rua do Raio, 47/75",
+            "Telefone": "",
+            "N. Contribuinte": 500851182
+        },
+        {
+            "Cliente": 70,
+            "Nome": "DST, S. A.",
+            "Nome Fiscal": "DST, S. A.",
+            "Morada": "Rua de Pitancinhos",
+            "Telefone": "",
+            "N. Contribuinte": 501489126
+        },
+        {
+            "Cliente": 71,
+            "Nome": "Sapol",
+            "Nome Fiscal": "Santana & Pogeira, S.A.",
+            "Morada": "Rua Francisco Augusto Alvim, 27",
+            "Telefone": "",
+            "N. Contribuinte": 502000406
+        },
+        {
+            "Cliente": 72,
+            "Nome": "Balan�as Marques de Jos� Pimenta Marques, Lda.",
+            "Nome Fiscal": "Balan�as Marques de Jos� Pimenta Marques, Lda.",
+            "Morada": "Pq. Ind. 2� Fase",
+            "Telefone": "",
+            "N. Contribuinte": 502130326
+        },
+        {
+            "Cliente": 73,
+            "Nome": "Beyond Motors Car - Com. e distr. de autom., S.A.",
+            "Nome Fiscal": "Beyond Motors Car - Com. e distr. de autom., S.A.",
+            "Morada": "Rua da Estrada Nacional 101 - Apartado 500",
+            "Telefone": "",
+            "N. Contribuinte": 502875216
+        },
+        {
+            "Cliente": 74,
+            "Nome": "Pereira & Sim�es, L.da",
+            "Nome Fiscal": "Pereira & Sim�es, L.da",
+            "Morada": "Lugar de Vila Nova",
+            "Telefone": "",
+            "N. Contribuinte": 502939923
+        },
+        {
+            "Cliente": 75,
+            "Nome": "Xavier Jantes - Ind. Metalomec, Lda",
+            "Nome Fiscal": "Xavier Jantes - Ind. Metalomec, Lda",
+            "Morada": "Parque Industrial Ada�fe, lote F1-A",
+            "Telefone": "",
+            "N. Contribuinte": 503706701
+        },
+        {
+            "Cliente": 76,
+            "Nome": "Joaquim G. Oliveira, Lda.",
+            "Nome Fiscal": "Joaquim G. Oliveira, Lda.",
+            "Morada": "Rua Cidade do Porto, n. 129",
+            "Telefone": "",
+            "N. Contribuinte": 504621831
+        },
+        {
+            "Cliente": 77,
+            "Nome": "Pe�asl�mia - Com. de Pe�as e Acess. Autom�vel, Lda",
+            "Nome Fiscal": "Pe�asl�mia - Com. de Pe�as e Acess. Autom�vel, Lda",
+            "Morada": "Rua da Galiza, N�35",
+            "Telefone": "",
+            "N. Contribuinte": 505214911
+        },
+        {
+            "Cliente": 78,
+            "Nome": "IQV Agro Portugal, SA",
+            "Nome Fiscal": "IQV Agro Portugal, SA",
+            "Morada": "Rua Bernardo Sequeira n�16 1� andar sala 5",
+            "Telefone": "",
+            "N. Contribuinte": 506284379
+        },
+        {
+            "Cliente": 79,
+            "Nome": "Aldo Portugal",
+            "Nome Fiscal": "ZT Two Image - Com�rcio de Cal�ado, S. A.",
+            "Morada": "Avenida da Ind�stria, n� 88",
+            "Telefone": "",
+            "N. Contribuinte": 506679381
+        },
+        {
+            "Cliente": 80,
+            "Nome": "Kone Portugal Elevadores L.da",
+            "Nome Fiscal": "Kone Portugal Elevadores L.da",
+            "Morada": "Av.� Infante D. Henrique - Edif�cio Xerox",
+            "Telefone": "",
+            "N. Contribuinte": 506682048
+        },
+        {
+            "Cliente": 81,
+            "Nome": "Fritempo - Com. Eq. Frio Ar Condicionado, Lda.",
+            "Nome Fiscal": "Fritempo - Com. Eq. Frio Ar Condicionado, Lda.",
+            "Morada": "Avenida de Sequeira, n. 64 a 68",
+            "Telefone": "",
+            "N. Contribuinte": 507244516
+        },
+        {
+            "Cliente": 82,
+            "Nome": "N�mero de Esp�cie, Lda",
+            "Nome Fiscal": "N�mero de Esp�cie, Lda",
+            "Morada": "Rua Nova santa Leoc�dia, Lote 23",
+            "Telefone": "",
+            "N. Contribuinte": 509273076
+        },
+        {
+            "Cliente": 83,
+            "Nome": "S�tio do M�vel",
+            "Nome Fiscal": "Rasgos do Futuro, lda.",
+            "Morada": "C. de Neg�cios de Sequeira, Praceta do Castelo",
+            "Telefone": "",
+            "N. Contribuinte": 509990010
+        },
+        {
+            "Cliente": 84,
+            "Nome": "Dulcineia Vila�a - Caixilharia em PVC, Lda",
+            "Nome Fiscal": "Dulcineia Vila�a - Caixilharia em PVC, Lda",
+            "Morada": "Rua Dr. Edgardo S� Malheiro, n� 132 R/C Esq.",
+            "Telefone": "",
+            "N. Contribuinte": 510276709
+        },
+        {
+            "Cliente": 85,
+            "Nome": "CuboForma, Lda.",
+            "Nome Fiscal": "CuboForma, Lda.",
+            "Morada": "Avenida do C�vado, 48",
+            "Telefone": "",
+            "N. Contribuinte": 510993281
+        },
+        {
+            "Cliente": 86,
+            "Nome": "O Feliz - Painel, Lda.",
+            "Nome Fiscal": "O Feliz - Painel, Lda.",
+            "Morada": "Av. de S�o Louren�o, 41",
+            "Telefone": "",
+            "N. Contribuinte": 513508961
+        },
+        {
+            "Cliente": 87,
+            "Nome": "Petit Amour, Lda",
+            "Nome Fiscal": "Petit Amour, Lda",
+            "Morada": "Rua E�a de Queir�s, n. 122",
+            "Telefone": "",
+            "N. Contribuinte": 513933867
+        },
+        {
+            "Cliente": 88,
+            "Nome": "Elcapa - Com�rcio e servi�os, unipessoal, lda",
+            "Nome Fiscal": "Elcapa - Com�rcio e servi�os, unipessoal, lda",
+            "Morada": "Rua da Mouta, 60",
+            "Telefone": "",
+            "N. Contribuinte": 514481498
+        },
+        {
+            "Cliente": 89,
+            "Nome": "Centro M�dico Cirurgico de Braga",
+            "Nome Fiscal": "RGM Sa�de, Lda.",
+            "Morada": "Rua do Padr�o, 363",
+            "Telefone": "",
+            "N. Contribuinte": 514972939
+        },
+        {
+            "Cliente": 90,
+            "Nome": "Moinho Latino, Lda",
+            "Nome Fiscal": "Moinho Latino, Lda",
+            "Morada": "Avenida de Lamas, 100 Lj 2.26",
+            "Telefone": "",
+            "N. Contribuinte": 514975644
+        },
+        {
+            "Cliente": 91,
+            "Nome": "Tibau & Brantes, Lda",
+            "Nome Fiscal": "Tibau & Brantes, Lda",
+            "Morada": "Avenida Antero de Quental, 96 - 5� diretio",
+            "Telefone": "",
+            "N. Contribuinte": 515068462
+        },
+        {
+            "Cliente": 92,
+            "Nome": "White Desires, Lda",
+            "Nome Fiscal": "White Desires, Lda",
+            "Morada": "Pra�a Camilo Castelo Branco, n. 29, 7� esq. tr�s",
+            "Telefone": "",
+            "N. Contribuinte": 515312398
+        },
+        {
+            "Cliente": 93,
+            "Nome": "Bruno Andr� Pereira Rodrigues",
+            "Nome Fiscal": "Bruno Andr� Pereira Rodrigues",
+            "Morada": "Rua Le�es das Enguardas, Bloco F - 1� Esq.",
+            "Telefone": "",
+            "N. Contribuinte": 227262344
+        },
+        {
+            "Cliente": 94,
+            "Nome": "Fenomenalo�sis, lda",
+            "Nome Fiscal": "Fenomenalo�sis, lda",
+            "Morada": "Rua Quinta do Pregal, n. 10-4� Esq.",
+            "Telefone": "",
+            "N. Contribuinte": 513366474
+        },
+        {
+            "Cliente": 95,
+            "Nome": "Centro Social da Par�quia de Polvoreira",
+            "Nome Fiscal": "Centro Social da Par�quia de Polvoreira",
+            "Morada": "Avenida Pe. Isaac Ara�jo e Silva, n. 410",
+            "Telefone": "",
+            "N. Contribuinte": 502843918
+        },
+        {
+            "Cliente": 96,
+            "Nome": "3 o Rio, Administra��o Imobili�ria, Lda",
+            "Nome Fiscal": "3 o Rio, Administra��o Imobili�ria, Lda",
+            "Morada": "Rua de Tr�s-o-Rio, n. 17",
+            "Telefone": "",
+            "N. Contribuinte": 508194997
+        },
+        {
+            "Cliente": 97,
+            "Nome": "Lanhoso, Torrefa��o de Caf�s, Lda",
+            "Nome Fiscal": "Lanhoso, Torrefa��o de Caf�s, Lda",
+            "Morada": "Lugar do Barreiro",
+            "Telefone": "",
+            "N. Contribuinte": 503518565
+        },
+        {
+            "Cliente": 98,
+            "Nome": "APQ Unip. Lda",
+            "Nome Fiscal": "APQ Unip. Lda",
+            "Morada": "Loja Vila das Aves",
+            "Telefone": "",
+            "N. Contribuinte": 510889115
+        },
+        {
+            "Cliente": 99,
+            "Nome": "R�s do C�u - Media��o Imobili�ria Lda",
+            "Nome Fiscal": "R�s do C�u - Media��o Imobili�ria Lda",
+            "Morada": "Rua do Raio 309 R/C",
+            "Telefone": "",
+            "N. Contribuinte": 514495863
+        },
+        {
+            "Cliente": 100,
+            "Nome": "Ab�lio & Paulo Peixoto Electricidade, Ld�",
+            "Nome Fiscal": "Ab�lio & Paulo Peixoto Electricidade, Ld�",
+            "Morada": "Rua da Venda, 24 - B",
+            "Telefone": "",
+            "N. Contribuinte": 507554116
+        },
+        {
+            "Cliente": 101,
+            "Nome": "Maria Ol�via Oliveira, lda",
+            "Nome Fiscal": "Maria Ol�via Oliveira, lda",
+            "Morada": "Rua Cidade do Porto 125",
+            "Telefone": "",
+            "N. Contribuinte": 506023931
+        },
+        {
+            "Cliente": 102,
+            "Nome": "Aldo Pontevedra",
+            "Nome Fiscal": "ZT Four Image, Comercio da Calzado, SAL",
+            "Morada": "Calle Urzaiz, 16 - 1�, OF.6",
+            "Telefone": "",
+            "N. Contribuinte": "A76019405"
+        },
+        {
+            "Cliente": 103,
+            "Nome": "Torneiras Roriz, S. A.",
+            "Nome Fiscal": "Torneiras Roriz, S. A.",
+            "Morada": "Parque Industrial de Ada�fe",
+            "Telefone": "253 607 740",
+            "N. Contribuinte": 503195901
+        },
+        {
+            "Cliente": 104,
+            "Nome": "SAS Autosystemtechnik de Portugal, Unipessoal Lda.",
+            "Nome Fiscal": "SAS Autosystemtechnik de Portugal, Unipessoal Lda.",
+            "Morada": "Parque Industrial Autoeuropa",
+            "Telefone": "",
+            "N. Contribuinte": 504976770
+        },
+        {
+            "Cliente": 105,
+            "Nome": "EcoFirma - Gest�o do Ambiente, S. A.",
+            "Nome Fiscal": "EcoFirma - Gest�o do Ambiente, S. A.",
+            "Morada": "Rua Soldado Manuel Pinheiro Magalh�es, Nr. 16",
+            "Telefone": "",
+            "N. Contribuinte": 503850128
+        },
+        {
+            "Cliente": 106,
+            "Nome": "Wallplan, Arquitetura, Reabilita��o e Costr. Lda",
+            "Nome Fiscal": "Wallplan, Arquitetura, Reabilita��o e Costr. Lda",
+            "Morada": "Rua Jos� Afonso, 96",
+            "Telefone": "",
+            "N. Contribuinte": 508357098
+        },
+        {
+            "Cliente": 107,
+            "Nome": "Rolar Matosinhos - Associa��o Desportiva",
+            "Nome Fiscal": "Rolar Matosinhos - Associa��o Desportiva",
+            "Morada": "Travessa Santiago 149",
+            "Telefone": "",
+            "N. Contribuinte": 503091448
+        },
+        {
+            "Cliente": 108,
+            "Nome": "RS Combust�veis e lubrificantes LDA",
+            "Nome Fiscal": "RS Combust�veis e lubrificantes LDA",
+            "Morada": "Av. Nossa Senhora da Concei��o, n. 128",
+            "Telefone": "",
+            "N. Contribuinte": 515367494
+        },
+        {
+            "Cliente": 109,
+            "Nome": "Pereira & Anjos, Lda",
+            "Nome Fiscal": "Pereira & Anjos, Lda",
+            "Morada": "Rua Dr. S�rgio Silva Pinto, n. 26",
+            "Telefone": "",
+            "N. Contribuinte": 515328529
+        },
+        {
+            "Cliente": 110,
+            "Nome": "D.m.d.i. Artigos �pticos Lda",
+            "Nome Fiscal": "D.m.d.i. Artigos �pticos Lda",
+            "Morada": "Estrada Nacional 1, Km 144",
+            "Telefone": "",
+            "N. Contribuinte": 504153722
+        },
+        {
+            "Cliente": 111,
+            "Nome": "RTP - R�dio e Televis�o de Portugal, S. A.",
+            "Nome Fiscal": "RTP - R�dio e Televis�o de Portugal, S. A.",
+            "Morada": "Avenida Marechal Gmes da Costa, n� 37",
+            "Telefone": "",
+            "N. Contribuinte": 500225680
+        },
+        {
+            "Cliente": 112,
+            "Nome": "Chapatim - Unipessoal Lda",
+            "Nome Fiscal": "Chapatim - Unipessoal Lda",
+            "Morada": "Rua Domingos Bontempo, N� 66",
+            "Telefone": "",
+            "N. Contribuinte": 510469965
+        },
+        {
+            "Cliente": 113,
+            "Nome": "Up-Way Systems Lda",
+            "Nome Fiscal": "Up-Way Systems Lda",
+            "Morada": "Rua Dr. Oliveira Mendes, 44",
+            "Telefone": "",
+            "N. Contribuinte": 507227115
+        },
+        {
+            "Cliente": 114,
+            "Nome": "Grafibraga - Artes Gr�ficas, Lda",
+            "Nome Fiscal": "Grafibraga - Artes Gr�ficas, Lda",
+            "Morada": "Travessa Conselheiro Lobato, 38",
+            "Telefone": "",
+            "N. Contribuinte": 502048905
+        },
+        {
+            "Cliente": 115,
+            "Nome": "Pichelaria Lino Barbosa Lda.",
+            "Nome Fiscal": "Pichelaria Lino Barbosa Lda.",
+            "Morada": "Rua S�o Jer�nimo, n. 4 e 8",
+            "Telefone": 253625102,
+            "N. Contribuinte": 505530040
+        },
+        {
+            "Cliente": 116,
+            "Nome": "Escola Profissional Amar Terra Verde, Lda",
+            "Nome Fiscal": "Escola Profissional Amar Terra Verde, Lda",
+            "Morada": "Pra�a das Comunidades Geminadas, N� 1",
+            "Telefone": "",
+            "N. Contribuinte": 504595067
+        },
+        {
+            "Cliente": 117,
+            "Nome": "The Bolt",
+            "Nome Fiscal": "Bruno Manuel Fernandes, unipessoal Lda.",
+            "Morada": "Rua do Salgueirinho, N� 47",
+            "Telefone": "",
+            "N. Contribuinte": 514137002
+        },
+        {
+            "Cliente": 119,
+            "Nome": "Jos� Daniel Pereira unipessoal Lda",
+            "Nome Fiscal": "Jos� Daniel Pereira unipessoal Lda",
+            "Morada": "Rua da Minhoteira, 231",
+            "Telefone": "",
+            "N. Contribuinte": 509399118
+        },
+        {
+            "Cliente": 120,
+            "Nome": "Ant�nio Jos� Rego - Restaura��o, unipessoal Lda.",
+            "Nome Fiscal": "Ant�nio Jos� Rego - Restaura��o, unipessoal Lda.",
+            "Morada": "Rua do Feital, n. 49",
+            "Telefone": "",
+            "N. Contribuinte": 515405248
+        },
+        {
+            "Cliente": 121,
+            "Nome": "Etipus, Innovation And Engineering, Lda",
+            "Nome Fiscal": "Etipus, Innovation And Engineering, Lda",
+            "Morada": "Rua da Eira, 28",
+            "Telefone": "",
+            "N. Contribuinte": 513718184
+        },
+        {
+            "Cliente": 122,
+            "Nome": "JJS - STAND, LDA",
+            "Nome Fiscal": "JJS - STAND, LDA",
+            "Morada": "Rua S�o Bento das Pedras",
+            "Telefone": "",
+            "N. Contribuinte": 508400040
+        },
+        {
+            "Cliente": 123,
+            "Nome": "Partnertopartner - consultores de gest�o S.A.",
+            "Nome Fiscal": "Partnertopartner - consultores de gest�o S.A.",
+            "Morada": "Rua Marcelino S� Pires, n. 15",
+            "Telefone": "",
+            "N. Contribuinte": 507156919
+        },
+        {
+            "Cliente": 124,
+            "Nome": "Dermisu",
+            "Nome Fiscal": "Clara Susana Sousa Mota",
+            "Morada": "Rua dos Padres Carmelitas, loja 15",
+            "Telefone": "",
+            "N. Contribuinte": 211638820
+        },
+        {
+            "Cliente": 125,
+            "Nome": "JVK Cosmetics",
+            "Nome Fiscal": "JVK Cosmetics",
+            "Morada": "Rua 2, Vila Maia, n� 18",
+            "Telefone": "",
+            "N. Contribuinte": 514764988
+        },
+        {
+            "Cliente": 126,
+            "Nome": "Progest Ant�nio Ara�jo, Consultoria Emp. Unip. Lda",
+            "Nome Fiscal": "Progest Ant�nio Ara�jo, Consultoria Emp. Unip. Lda",
+            "Morada": "Rua Ant�nio C�ndido Pinto, 37",
+            "Telefone": "",
+            "N. Contribuinte": 508689953
+        },
+        {
+            "Cliente": 127,
+            "Nome": "Fuste, S. A.",
+            "Nome Fiscal": "Fuste, S. A.",
+            "Morada": "Rua de Santo Andr�, n� 198",
+            "Telefone": "",
+            "N. Contribuinte": 502558377
+        },
+        {
+            "Cliente": 128,
+            "Nome": "Ag�ncia C�sar�s AG",
+            "Nome Fiscal": "Ag�ncia C�sar�s AG",
+            "Morada": "Centralbahnplatz 12",
+            "Telefone": "",
+            "N. Contribuinte": "CH415940"
+        },
+        {
+            "Cliente": 129,
+            "Nome": "Insparedes, S. A.",
+            "Nome Fiscal": "Insparedes, S. A.",
+            "Morada": "Parque Industrial Sete Fontes",
+            "Telefone": "",
+            "N. Contribuinte": 503184500
+        },
+        {
+            "Cliente": 130,
+            "Nome": "TABIQUE - Engenharia, Lda.",
+            "Nome Fiscal": "TABIQUE - Engenharia, Lda.",
+            "Morada": "Av. Robert Smith 19",
+            "Telefone": "",
+            "N. Contribuinte": 503888460
+        },
+        {
+            "Cliente": 131,
+            "Nome": "Espont�neo & Criativo - Constru��o unipessoal, Lda",
+            "Nome Fiscal": "Espont�neo & Criativo - Constru��o unipessoal, Lda",
+            "Morada": "Rua de Torneiros, 33 R/C",
+            "Telefone": "",
+            "N. Contribuinte": 509807704
+        },
+        {
+            "Cliente": 132,
+            "Nome": "B�nusprofit - Consultadoria, Unipessoal, Lda",
+            "Nome Fiscal": "B�nusprofit - Consultadoria, Unipessoal, Lda",
+            "Morada": "Rua Arquitecto Andr� Soares, lote 92, M. 46 - D",
+            "Telefone": "",
+            "N. Contribuinte": 510426115
+        },
+        {
+            "Cliente": 133,
+            "Nome": "Arcada Nova S.A.",
+            "Nome Fiscal": "Arcada Nova S.A.",
+            "Morada": "Praceta Escola do Magist�rio, 34",
+            "Telefone": "",
+            "N. Contribuinte": 504265342
+        },
+        {
+            "Cliente": 134,
+            "Nome": "Esteves, Cruz & Sousa, Lda",
+            "Nome Fiscal": "Esteves, Cruz & Sousa, Lda",
+            "Morada": "Rua Quinta de Cabanas, 70 - 72 e 78",
+            "Telefone": "",
+            "N. Contribuinte": 506896447
+        },
+        {
+            "Cliente": 135,
+            "Nome": "RVP Lda.",
+            "Nome Fiscal": "RVP Lda.",
+            "Morada": "Rua dos Castanheiros, n� 6",
+            "Telefone": "",
+            "N. Contribuinte": 508970130
+        },
+        {
+            "Cliente": 136,
+            "Nome": "Frescas Surpresas, Lda",
+            "Nome Fiscal": "Frescas Surpresas, Lda",
+            "Morada": "Mercado Abastecedor de Braga",
+            "Telefone": "",
+            "N. Contribuinte": 508565103
+        },
+        {
+            "Cliente": 137,
+            "Nome": "QUINTA-ESS�NCIA - Organiza��o de Eventos, Lda.",
+            "Nome Fiscal": "QUINTA-ESS�NCIA - Organiza��o de Eventos, Lda.",
+            "Morada": "Rua do Caulino, N. 384",
+            "Telefone": "",
+            "N. Contribuinte": 507669673
+        },
+        {
+            "Cliente": 138,
+            "Nome": "Eurovinil, S.A.",
+            "Nome Fiscal": "Eurovinil, S.A.",
+            "Morada": "Zona Industrial da Maia I - Sector IV",
+            "Telefone": "",
+            "N. Contribuinte": 502919990
+        },
+        {
+            "Cliente": 139,
+            "Nome": "SKPRO, Lda",
+            "Nome Fiscal": "SKPRO, Lda",
+            "Morada": "Rua 28 de Janeiro, 350 - Edif�cio T - Fr. 01 e 18",
+            "Telefone": "",
+            "N. Contribuinte": 508161320
+        },
+        {
+            "Cliente": 140,
+            "Nome": "Jos� Peixoto Rodrigues, lda",
+            "Nome Fiscal": "Jos� Peixoto Rodrigues, lda",
+            "Morada": "Rua cidade do porto, 114-118",
+            "Telefone": "",
+            "N. Contribuinte": 500158800
+        },
+        {
+            "Cliente": 141,
+            "Nome": "Maria Morgado Fernandes",
+            "Nome Fiscal": "Maria Morgado Fernandes",
+            "Morada": "Braga",
+            "Telefone": "",
+            "N. Contribuinte": 154905216
+        },
+        {
+            "Cliente": 142,
+            "Nome": "Associa��o Humanit�ria Bombeiros Volunt�rios Braga",
+            "Nome Fiscal": "Associa��o Humanit�ria Bombeiros Volunt�rios Braga",
+            "Morada": "Largo Paulo Os�rio",
+            "Telefone": "",
+            "N. Contribuinte": 501143637
+        },
+        {
+            "Cliente": 143,
+            "Nome": "Identidade Digital",
+            "Nome Fiscal": "ID4You Unipessoal, Lda",
+            "Morada": "Rua Dr M�rio Sacramento 59 A",
+            "Telefone": "",
+            "N. Contribuinte": 510713688
+        },
+        {
+            "Cliente": 144,
+            "Nome": "Trapotop, Lda",
+            "Nome Fiscal": "Trapotop, Lda",
+            "Morada": "Avenida Portas do Minho, 201 loja 4",
+            "Telefone": "",
+            "N. Contribuinte": 508190983
+        },
+        {
+            "Cliente": 145,
+            "Nome": "Col�gio Leonardo da Vinci",
+            "Nome Fiscal": "Pro-Educa��o, Sociedade de Ensino, Lda",
+            "Morada": "Rua Concelheiro Bento Miguel, 10",
+            "Telefone": "",
+            "N. Contribuinte": 501869182
+        },
+        {
+            "Cliente": 146,
+            "Nome": "Auferma",
+            "Nome Fiscal": "Time & Hours, ourivesaria, Lda",
+            "Morada": "Rua Central de Olival, 450",
+            "Telefone": "",
+            "N. Contribuinte": 514569123
+        },
+        {
+            "Cliente": 149,
+            "Nome": "Pink Lemon",
+            "Nome Fiscal": "Ana Daniela Ferreira de Jesus",
+            "Morada": "Rua Lu�s Barroso, Edif�cio Infante D. Henrique",
+            "Telefone": 913802973,
+            "N. Contribuinte": 246254700
+        },
+        {
+            "Cliente": 150,
+            "Nome": "Restaurante Sabores da Paula",
+            "Nome Fiscal": "Restaurante Sabores da Paula",
+            "Morada": "Rua da Igreja n. 9",
+            "Telefone": "",
+            "N. Contribuinte": 176748733
+        },
+        {
+            "Cliente": 151,
+            "Nome": "Ferroc�vado - Corte E Quinagem De Chapa, Lda",
+            "Nome Fiscal": "Ferroc�vado - Corte E Quinagem De Chapa, Lda",
+            "Morada": "Largo de Santo Estev�o",
+            "Telefone": "",
+            "N. Contribuinte": 507850998
+        },
+        {
+            "Cliente": 152,
+            "Nome": "Bracaragas, Lda",
+            "Nome Fiscal": "Bracaragas, Lda",
+            "Morada": "Rua da Mouta, 1",
+            "Telefone": "",
+            "N. Contribuinte": 503669466
+        },
+        {
+            "Cliente": 153,
+            "Nome": "Bong�s Express - Combust�veis S.A.",
+            "Nome Fiscal": "Bong�s Express - Combust�veis S.A.",
+            "Morada": "Estrada Nacional 16 ao km 3",
+            "Telefone": "",
+            "N. Contribuinte": 510566634
+        },
+        {
+            "Cliente": 154,
+            "Nome": "Ricardo e Vaz Lda",
+            "Nome Fiscal": "Ricardo e Vaz Lda",
+            "Morada": "Rua Nova da Devesa, Lote A",
+            "Telefone": "",
+            "N. Contribuinte": 503800317
+        },
+        {
+            "Cliente": 155,
+            "Nome": "Transportes Cit�nia, Lda",
+            "Nome Fiscal": "Transportes Cit�nia, Lda",
+            "Morada": "Rua Professor F�lix Fernandes Marques, 123",
+            "Telefone": "",
+            "N. Contribuinte": 503063630
+        },
+        {
+            "Cliente": 156,
+            "Nome": "FEHST COMPONENTES, LDA.",
+            "Nome Fiscal": "FEHST COMPONENTES, LDA.",
+            "Morada": "Rua Max Grundig, 9",
+            "Telefone": "",
+            "N. Contribuinte": 503263575
+        },
+        {
+            "Cliente": 157,
+            "Nome": "Medicalsafe, Unipessoal, Lda",
+            "Nome Fiscal": "Medicalsafe, Unipessoal, Lda",
+            "Morada": "Rua Marcelino da S� Pires, n� 550 - 7� andar",
+            "Telefone": "",
+            "N. Contribuinte": 507861760
+        },
+        {
+            "Cliente": 158,
+            "Nome": "Pedro Jos� Gon�alves Leques Damas",
+            "Nome Fiscal": "Pedro Jos� Gon�alves Leques Damas",
+            "Morada": "Rua Nossa Senhora da Piedade, Lote 3",
+            "Telefone": "",
+            "N. Contribuinte": 192883658
+        },
+        {
+            "Cliente": 159,
+            "Nome": "Contas e Conceitos, Lda",
+            "Nome Fiscal": "Contas e Conceitos, Lda",
+            "Morada": "Rua dos Sapatelos, n� 48",
+            "Telefone": "",
+            "N. Contribuinte": 507758714
+        },
+        {
+            "Cliente": 160,
+            "Nome": "Regional, Artes Gr�ficas Publicidade, Lda",
+            "Nome Fiscal": "Regional, Artes Gr�ficas Publicidade, Lda",
+            "Morada": "Rua Nova de Santa Cruz, 70",
+            "Telefone": "",
+            "N. Contribuinte": 502026383
+        },
+        {
+            "Cliente": 161,
+            "Nome": "Augusto Ferreira Costa contru��o civil, Lda",
+            "Nome Fiscal": "Augusto Ferreira Costa contru��o civil, Lda",
+            "Morada": "Rua do Cruzeiro, n. 2041, 1� Dt",
+            "Telefone": "",
+            "N. Contribuinte": 510989543
+        },
+        {
+            "Cliente": 162,
+            "Nome": "Joaquim Narciso",
+            "Nome Fiscal": "Joaquim Narciso",
+            "Morada": "Av. Jo�o XXI, n. 789",
+            "Telefone": "",
+            "N. Contribuinte": 149288050
+        },
+        {
+            "Cliente": 163,
+            "Nome": "Proexeq - Constru��o, Com�rcio e Servi�os, Lda",
+            "Nome Fiscal": "Proexeq - Constru��o, Com�rcio e Servi�os, Lda",
+            "Morada": "Rua do Monte, N� 25",
+            "Telefone": "",
+            "N. Contribuinte": 504261525
+        },
+        {
+            "Cliente": 164,
+            "Nome": "Baldi, Lda",
+            "Nome Fiscal": "Baldi, Lda",
+            "Morada": "Edif.balan�as Marques",
+            "Telefone": "",
+            "N. Contribuinte": 506974286
+        },
+        {
+            "Cliente": 165,
+            "Nome": "Signinum, Gest�o de Patrim�nio Cultural Lda",
+            "Nome Fiscal": "Signinum, Gest�o de Patrim�nio Cultural Lda",
+            "Morada": "Rua Sete, n� 85",
+            "Telefone": "",
+            "N. Contribuinte": 505902168
+        },
+        {
+            "Cliente": 166,
+            "Nome": "Valor I Pessoas - Consultoria Empresarial Lda",
+            "Nome Fiscal": "Valor I Pessoas - Consultoria Empresarial Lda",
+            "Morada": "Av. da Liberdade, n. 432, Piso 5, Sala 34",
+            "Telefone": "",
+            "N. Contribuinte": 506776816
+        },
+        {
+            "Cliente": 167,
+            "Nome": "ACL",
+            "Nome Fiscal": "Ant�nio da Cunha Leite, Lda",
+            "Morada": "Av. Eng J. Rolo lote H1 Pav.C",
+            "Telefone": "",
+            "N. Contribuinte": 504949306
+        },
+        {
+            "Cliente": 168,
+            "Nome": "Delicat",
+            "Nome Fiscal": "Creative Furniture, Lda",
+            "Morada": "Parque Industrial Celeir�s, 2� fase",
+            "Telefone": "",
+            "N. Contribuinte": 510315607
+        },
+        {
+            "Cliente": 169,
+            "Nome": "Faculdade Ci�ncias Sociais e Humanas U. N. Lisboa",
+            "Nome Fiscal": "Faculdade Ci�ncias Sociais e Humanas U. N. Lisboa",
+            "Morada": "Av. de Berna, 26C",
+            "Telefone": "",
+            "N. Contribuinte": 501559094
+        },
+        {
+            "Cliente": 170,
+            "Nome": "Fento - Servi�os de Engenharia Lda",
+            "Nome Fiscal": "Fento - Servi�os de Engenharia Lda",
+            "Morada": "Parque Industrial de G�me, Lote F6",
+            "Telefone": "",
+            "N. Contribuinte": 504145142
+        },
+        {
+            "Cliente": 171,
+            "Nome": "Esc. Europeia Ens. Profissional Manuel R. Suarez",
+            "Nome Fiscal": "Esc. Europeia Ens. Profissional Manuel R. Suarez",
+            "Morada": "Rua do Caires, 3015 - 1� Andar",
+            "Telefone": "",
+            "N. Contribuinte": 216146330
+        },
+        {
+            "Cliente": 172,
+            "Nome": "Drogaria Feliz, Lda.",
+            "Nome Fiscal": "Drogaria Feliz, Lda.",
+            "Morada": "Av. de S�o Louren�o, 72-A",
+            "Telefone": "",
+            "N. Contribuinte": 501993940
+        },
+        {
+            "Cliente": 173,
+            "Nome": "Publicidade � Connosco Lda",
+            "Nome Fiscal": "Publicidade � Connosco Lda",
+            "Morada": "R. Manuel Ferreira Ara�jo N� 13",
+            "Telefone": "",
+            "N. Contribuinte": 505935902
+        },
+        {
+            "Cliente": 174,
+            "Nome": "Confraria do Bom Jesus do Monte",
+            "Nome Fiscal": "Confraria do Bom Jesus do Monte",
+            "Morada": "Est. de Bom Jesus",
+            "Telefone": "",
+            "N. Contribuinte": 501132430
+        },
+        {
+            "Cliente": 175,
+            "Nome": "VARIKIAL LDA",
+            "Nome Fiscal": "VARIKIAL LDA",
+            "Morada": "Rua Nova de Santa Cruz, 171",
+            "Telefone": "",
+            "N. Contribuinte": 514072814
+        },
+        {
+            "Cliente": 176,
+            "Nome": "Baltazar Fernandes & Moreira, Lda",
+            "Nome Fiscal": "Baltazar Fernandes & Moreira, Lda",
+            "Morada": "Rua do Arinho LT 1B",
+            "Telefone": "",
+            "N. Contribuinte": 501701516
+        },
+        {
+            "Cliente": 177,
+            "Nome": "Direc��o Regional de Cultura do Norte",
+            "Nome Fiscal": "Direc��o Regional de Cultura do Norte",
+            "Morada": "Praceta da Carreira",
+            "Telefone": "",
+            "N. Contribuinte": 600067831
+        },
+        {
+            "Cliente": 178,
+            "Nome": "Feeling Pink Lda",
+            "Nome Fiscal": "Feeling Pink Lda",
+            "Morada": "Avenida da Boavista, n� 854 - 1� andar",
+            "Telefone": "",
+            "N. Contribuinte": 510217850
+        },
+        {
+            "Cliente": 179,
+            "Nome": "Fabripixel - Unipessoal, Lda",
+            "Nome Fiscal": "Fabripixel - Unipessoal, Lda",
+            "Morada": "Parque Industrial Pitancinhos, Pav. E4",
+            "Telefone": "",
+            "N. Contribuinte": 508042070
+        },
+        {
+            "Cliente": 180,
+            "Nome": "Fantastic4, Lda",
+            "Nome Fiscal": "Fantastic4, Lda",
+            "Morada": "Avenida Imaculada Concei��o, 611",
+            "Telefone": "",
+            "N. Contribuinte": 513616209
+        },
+        {
+            "Cliente": 181,
+            "Nome": "Sercolor",
+            "Nome Fiscal": "S�rgio Vidrago unipessoal, lda",
+            "Morada": "Parque Industrial de Celeir�s, 42A",
+            "Telefone": "",
+            "N. Contribuinte": 507366123
+        },
+        {
+            "Cliente": 182,
+            "Nome": "Adirqual - Materiais de Constru��o, Unipessoal Lda",
+            "Nome Fiscal": "Adirqual - Materiais de Constru��o, Unipessoal Lda",
+            "Morada": "Loteamento Lugar Ch�o da Estrada",
+            "Telefone": "",
+            "N. Contribuinte": 508104890
+        },
+        {
+            "Cliente": 183,
+            "Nome": "Campos Silva, S.A",
+            "Nome Fiscal": "Campos Silva, S.A",
+            "Morada": "Lugar do Corgo-Ada�fe, Ap.2095",
+            "Telefone": "",
+            "N. Contribuinte": 501593446
+        },
+        {
+            "Cliente": 184,
+            "Nome": "Mredis, Lda",
+            "Nome Fiscal": "Mredis, Lda",
+            "Morada": "Travessa da Ponte do Bico, N� 109",
+            "Telefone": "",
+            "N. Contribuinte": 508647568
+        },
+        {
+            "Cliente": 185,
+            "Nome": "Amiguinhos do Museu de Alberto Sampaio",
+            "Nome Fiscal": "Amiguinhos do Museu de Alberto Sampaio",
+            "Morada": "Rua Alfredo Guimar�es , n�S/N",
+            "Telefone": "",
+            "N. Contribuinte": 505573172
+        },
+        {
+            "Cliente": 186,
+            "Nome": "Traject�ria Actual - Unipessoal Lda",
+            "Nome Fiscal": "Traject�ria Actual - Unipessoal Lda",
+            "Morada": "Rua da Venda, Pav. 4",
+            "Telefone": "",
+            "N. Contribuinte": 513602860
+        },
+        {
+            "Cliente": 187,
+            "Nome": "Line Station Lda",
+            "Nome Fiscal": "Line Station Lda",
+            "Morada": "Estrada Oct�vio Pato, Penedo Park, F7 Cave",
+            "Telefone": "",
+            "N. Contribuinte": 509206409
+        },
+        {
+            "Cliente": 188,
+            "Nome": "Joana Catarina Abreu Faria",
+            "Nome Fiscal": "Joana Catarina Abreu Faria",
+            "Morada": "Avenida Dr. Artur Soares, 283",
+            "Telefone": "",
+            "N. Contribuinte": 271575565
+        },
+        {
+            "Cliente": 189,
+            "Nome": "Mundo de Quiron Im�veis, Lda",
+            "Nome Fiscal": "Mundo de Quiron Im�veis, Lda",
+            "Morada": "Largo de S�o Jo�o do Souto, 14/15",
+            "Telefone": "",
+            "N. Contribuinte": 507422317
+        },
+        {
+            "Cliente": 190,
+            "Nome": "Gandias - Sociedade de Representa��es, Lda.",
+            "Nome Fiscal": "Gandias - Sociedade de Representa��es, Lda.",
+            "Morada": "Avenida Central 116 - r/c",
+            "Telefone": "",
+            "N. Contribuinte": 500123896
+        },
+        {
+            "Cliente": 191,
+            "Nome": "H�quei Clube de Braga SAD",
+            "Nome Fiscal": "H�quei Clube de Braga SAD",
+            "Morada": "Rua Professora Adelina Caravana",
+            "Telefone": "",
+            "N. Contribuinte": 508285518
+        },
+        {
+            "Cliente": 192,
+            "Nome": "Jo�o Pedro Henriques, Unipessoal Lda",
+            "Nome Fiscal": "Jo�o Pedro Henriques, Unipessoal Lda",
+            "Morada": "Avenida Engenheiro Eduardo Arantes e Oliveira",
+            "Telefone": "",
+            "N. Contribuinte": 514193298
+        },
+        {
+            "Cliente": 193,
+            "Nome": "J. A. Rodrigues de Freitas, Unipessoal Lda.",
+            "Nome Fiscal": "J. A. Rodrigues de Freitas, Unipessoal Lda.",
+            "Morada": "Rua M�rio de Almeida, n� 32",
+            "Telefone": "",
+            "N. Contribuinte": 506816877
+        },
+        {
+            "Cliente": 194,
+            "Nome": "Corpo Nac. de Escutas (C.N.E),Esc. Cat. Portugu�s",
+            "Nome Fiscal": "Corpo Nac. de Escutas (C.N.E),Esc. Cat. Portugu�s",
+            "Morada": "Rua D. Lu�s I, N. 34",
+            "Telefone": "",
+            "N. Contribuinte": 500972052
+        },
+        {
+            "Cliente": 195,
+            "Nome": "ARTVIEW, LDA.",
+            "Nome Fiscal": "ARTVIEW, LDA.",
+            "Morada": "Rua Pinheiro Chagas, N. 44 A",
+            "Telefone": "",
+            "N. Contribuinte": 510163572
+        },
+        {
+            "Cliente": 196,
+            "Nome": "Azeite e alho F. unipessoal, lda.",
+            "Nome Fiscal": "Azeite e alho F. unipessoal, lda.",
+            "Morada": "Rua Costa Gomes, 553",
+            "Telefone": "",
+            "N. Contribuinte": 510111343
+        },
+        {
+            "Cliente": 197,
+            "Nome": "Centro de Forma��o Prof. da Ind�stria de Cal�ado",
+            "Nome Fiscal": "Centro de Forma��o Prof. da Ind�stria de Cal�ado",
+            "Morada": "Apartado 13",
+            "Telefone": "",
+            "N. Contribuinte": 900106590
+        },
+        {
+            "Cliente": 198,
+            "Nome": "Manuel J. C. Pereira, Cabe�a de casal de heran�a",
+            "Nome Fiscal": "Manuel J. C. Pereira, Cabe�a de casal de heran�a",
+            "Morada": "Rua Dr. Jos� Sousa Machado, n. 57",
+            "Telefone": "",
+            "N. Contribuinte": 702959154
+        },
+        {
+            "Cliente": 199,
+            "Nome": "Lofts & Dreams, Lda",
+            "Nome Fiscal": "Lofts & Dreams, Lda",
+            "Morada": "Rua padre Vitorino Sousa Alves, 38  - 1 dito",
+            "Telefone": "",
+            "N. Contribuinte": 515090549
+        },
+        {
+            "Cliente": 200,
+            "Nome": "Barcellab Lda",
+            "Nome Fiscal": "Barcellab Lda",
+            "Morada": "R. Elias Garcia, 149",
+            "Telefone": "",
+            "N. Contribuinte": 507698223
+        },
+        {
+            "Cliente": 201,
+            "Nome": "Sorevco, Lda.",
+            "Nome Fiscal": "Sorevco, Lda.",
+            "Morada": "Rua Dr. Jos� Vila�a, N� 58",
+            "Telefone": "",
+            "N. Contribuinte": 504674170
+        },
+        {
+            "Cliente": 202,
+            "Nome": "Jobasi, S.A",
+            "Nome Fiscal": "Jobasi, S.A",
+            "Morada": "Rua Primeiro-Cabo Baltazar Abreu Sim�es",
+            "Telefone": "",
+            "N. Contribuinte": 500153795
+        },
+        {
+            "Cliente": 203,
+            "Nome": "Fila Iberia S.L.",
+            "Nome Fiscal": "Fila Iberia S.L.",
+            "Morada": "Avda. Rabassaires, 28  3� planta",
+            "Telefone": "",
+            "N. Contribuinte": "ESB66875329"
+        },
+        {
+            "Cliente": 204,
+            "Nome": "HORIZONPERCENTAGE, INVEST. IMO. UNIPESSOAL, LDA.",
+            "Nome Fiscal": "HORIZONPERCENTAGE, INVEST. IMO. UNIPESSOAL, LDA.",
+            "Morada": "Rua de S. Br�s 325, Apto 6",
+            "Telefone": "",
+            "N. Contribuinte": 514431849
+        },
+        {
+            "Cliente": 205,
+            "Nome": "Arrais Marinho fisioterapia unipessoal, lda.",
+            "Nome Fiscal": "Arrais Marinho fisioterapia unipessoal, lda.",
+            "Morada": "Rua Bernardo Sequeira, n. 22",
+            "Telefone": "",
+            "N. Contribuinte": 515377368
+        },
+        {
+            "Cliente": 206,
+            "Nome": "Next Obras - Constru��o e Rem. de Interiores, Lda.",
+            "Nome Fiscal": "Next Obras - Constru��o e Rem. de Interiores, Lda.",
+            "Morada": "Rua Conselheiro Janu�rio n� 107",
+            "Telefone": "",
+            "N. Contribuinte": 513892370
+        },
+        {
+            "Cliente": 207,
+            "Nome": "Medivantagem, media��o imobili�ria lda.",
+            "Nome Fiscal": "Medivantagem, media��o imobili�ria lda.",
+            "Morada": "Rua Monsenhor Ferreira, N� 195",
+            "Telefone": "",
+            "N. Contribuinte": 508648319
+        },
+        {
+            "Cliente": 208,
+            "Nome": "3 Lines - Works Management, Lda (ZFM)",
+            "Nome Fiscal": "3 Lines - Works Management, Lda (ZFM)",
+            "Morada": "Rua do Bom Jesus, N�8/10, 2� Andar, Escrit�rio 206",
+            "Telefone": "",
+            "N. Contribuinte": 514371056
+        },
+        {
+            "Cliente": 209,
+            "Nome": "Centro de Cultura Esp�rita",
+            "Nome Fiscal": "Centro de Cultura Esp�rita",
+            "Morada": "Rua Francisco Ramos, 34, r/c - C. Rainha",
+            "Telefone": "",
+            "N. Contribuinte": 509264166
+        },
+        {
+            "Cliente": 210,
+            "Nome": "P&R T�xteis, S.A.",
+            "Nome Fiscal": "P&R T�xteis, S.A.",
+            "Morada": "Avenida Central, n.45",
+            "Telefone": "",
+            "N. Contribuinte": 501302603
+        },
+        {
+            "Cliente": 211,
+            "Nome": "Simplux - Instala��es e C. de Mat. El�ctrico, L.da",
+            "Nome Fiscal": "Simplux - Instala��es e C. de Mat. El�ctrico, L.da",
+            "Morada": "Rua Sta. Justa, 12 A",
+            "Telefone": 253273274,
+            "N. Contribuinte": 506923460
+        },
+        {
+            "Cliente": 212,
+            "Nome": "Vazquez & Machado - Autom�veis, Lda",
+            "Nome Fiscal": "Vazquez & Machado - Autom�veis, Lda",
+            "Morada": "Lugar do Pinheiro Lote A5",
+            "Telefone": "",
+            "N. Contribuinte": 515258709
+        },
+        {
+            "Cliente": 213,
+            "Nome": "Rui Vitor Ara�jo Correia - Komunicamos",
+            "Nome Fiscal": "Rui Vitor Ara�jo Correia - Komunicamos",
+            "Morada": "Pal�cio de Vidro, piso 2, Atelier 52",
+            "Telefone": "251 096 019",
+            "N. Contribuinte": 225518953
+        },
+        {
+            "Cliente": 214,
+            "Nome": "WE Imobili�ria Unipessoal, Lda",
+            "Nome Fiscal": "WE Imobili�ria Unipessoal, Lda",
+            "Morada": "Rua C�nego Rafael �lvares Costa, n� 106",
+            "Telefone": "",
+            "N. Contribuinte": 515518930
+        },
+        {
+            "Cliente": 215,
+            "Nome": "Real Casta Sensations and Emotions, Unip. Lda.",
+            "Nome Fiscal": "Real Casta Sensations and Emotions, Unip. Lda.",
+            "Morada": "Rua Nossa Sra. da Guadalupe, 113",
+            "Telefone": "",
+            "N. Contribuinte": 509894380
+        },
+        {
+            "Cliente": 216,
+            "Nome": "F3M Information Systems, S. A.",
+            "Nome Fiscal": "F3M Information Systems, S. A.",
+            "Morada": "Edif�cio F3M",
+            "Telefone": "253 250 300",
+            "N. Contribuinte": 501854371
+        },
+        {
+            "Cliente": 217,
+            "Nome": "BlueSky Solutions",
+            "Nome Fiscal": "BlueSky Solutions",
+            "Morada": "Rua Carlos Aleluia 4, Edif�cio Aveiro Centrum",
+            "Telefone": "",
+            "N. Contribuinte": 514613173
+        },
+        {
+            "Cliente": 218,
+            "Nome": "E-squaredesign Unipessoal, Lda",
+            "Nome Fiscal": "E-squaredesign Unipessoal, Lda",
+            "Morada": "Pra�a das Fontainhas n62, 7dt",
+            "Telefone": "",
+            "N. Contribuinte": 515162876
+        },
+        {
+            "Cliente": 219,
+            "Nome": "Juliana Teixeira",
+            "Nome Fiscal": "Juliana Teixeira",
+            "Morada": "Rua de Barros, n� 32 apartamento 2",
+            "Telefone": "",
+            "N. Contribuinte": 235258237
+        },
+        {
+            "Cliente": 220,
+            "Nome": "NICOLA PAPA SAG",
+            "Nome Fiscal": "NICOLA PAPA SAG",
+            "Morada": "Zona Industrial lote 19",
+            "Telefone": "",
+            "N. Contribuinte": 505807785
+        },
+        {
+            "Cliente": 221,
+            "Nome": "Star Academy, Lda",
+            "Nome Fiscal": "Star Academy, Lda",
+            "Morada": "Travessa Visconde de Pindela, 43",
+            "Telefone": "",
+            "N. Contribuinte": 514066202
+        },
+        {
+            "Cliente": 222,
+            "Nome": "Regicl�nica - Clinica de Medicina Dentaria Lda",
+            "Nome Fiscal": "Regicl�nica - Clinica de Medicina Dentaria Lda",
+            "Morada": "Rua do Carmo 11 sala 8",
+            "Telefone": "",
+            "N. Contribuinte": 503419613
+        },
+        {
+            "Cliente": 223,
+            "Nome": "EUROPESAGEM - COM. INTERNACIONAL DE BALAN�AS, LDA",
+            "Nome Fiscal": "EUROPESAGEM - COM. INTERNACIONAL DE BALAN�AS, LDA",
+            "Morada": "Parque Industrial de Celeir�s - 2� fase",
+            "Telefone": "",
+            "N. Contribuinte": 505348420
+        },
+        {
+            "Cliente": 224,
+            "Nome": "IFCTS-Inst. de Form. para o Com.,Tur. e Serv., Crl",
+            "Nome Fiscal": "IFCTS-Inst. de Form. para o Com.,Tur. e Serv., Crl",
+            "Morada": "Travessa Jos� Ant�nio Cruz, n�5",
+            "Telefone": "",
+            "N. Contribuinte": 508208416
+        },
+        {
+            "Cliente": 225,
+            "Nome": "Junta de Freguesia de Espor�es",
+            "Nome Fiscal": "Junta de Freguesia de Espor�es",
+            "Morada": "Rua Jos� Loureiro Duarte n�2",
+            "Telefone": "",
+            "N. Contribuinte": 507166337
+        },
+        {
+            "Cliente": 226,
+            "Nome": "Pichelaria Bisca�nhos, Lda",
+            "Nome Fiscal": "Pichelaria Bisca�nhos, Lda",
+            "Morada": "Rua dos Bisca�nhos, n�65/67",
+            "Telefone": "",
+            "N. Contribuinte": 504583522
+        },
+        {
+            "Cliente": 227,
+            "Nome": "Tr�s p�talas, Lda",
+            "Nome Fiscal": "Tr�s p�talas, Lda",
+            "Morada": "Rua Sargento Mor de Vilar, 306",
+            "Telefone": "",
+            "N. Contribuinte": 502606100
+        },
+        {
+            "Cliente": 228,
+            "Nome": "Stannah Mobilidade S.A.",
+            "Nome Fiscal": "Stannah Mobilidade S.A.",
+            "Morada": "Centro Empresarial de Braga, EDF, 5� DT",
+            "Telefone": "",
+            "N. Contribuinte": 509211208
+        },
+        {
+            "Cliente": 230,
+            "Nome": "Sabrina Silveira Lda",
+            "Nome Fiscal": "Sabrina Silveira Lda",
+            "Morada": "Estrada Nacional 105, Loja T5",
+            "Telefone": "",
+            "N. Contribuinte": 514974273
+        },
+        {
+            "Cliente": 231,
+            "Nome": "CABIDO DA S� DE BRAGA",
+            "Nome Fiscal": "CABIDO DA S� DE BRAGA",
+            "Morada": "Rua D. Paio Mendes",
+            "Telefone": "",
+            "N. Contribuinte": 501226575
+        },
+        {
+            "Cliente": 232,
+            "Nome": "SCARS",
+            "Nome Fiscal": "Carlos Alberto Ribeiro da Silva, lda",
+            "Morada": "Travessa das telheiras, 108",
+            "Telefone": "",
+            "N. Contribuinte": 505518120
+        },
+        {
+            "Cliente": 233,
+            "Nome": "Lantana Lda.",
+            "Nome Fiscal": "Lantana Lda.",
+            "Morada": "Rua do Conhecimento, 10",
+            "Telefone": "",
+            "N. Contribuinte": 510414583
+        },
+        {
+            "Cliente": 234,
+            "Nome": "Jacinta & Ana, Vestu�rio infantil lda",
+            "Nome Fiscal": "Jacinta & Ana, Vestu�rio infantil lda",
+            "Morada": "Quinta dos congregados, loja 314",
+            "Telefone": "",
+            "N. Contribuinte": 510966373
+        },
+        {
+            "Cliente": 235,
+            "Nome": "Piscinas Ramos",
+            "Nome Fiscal": "Piscinas V. H. Ramos Lda",
+            "Morada": "Av. Jo�o XXI 691",
+            "Telefone": "",
+            "N. Contribuinte": 507724380
+        },
+        {
+            "Cliente": 236,
+            "Nome": "Dermashop",
+            "Nome Fiscal": "Tend�ncia Fundamental unipessoal Lda",
+            "Morada": "Rua das Ru�adas, n. 122, loja1",
+            "Telefone": "",
+            "N. Contribuinte": 513924264
+        },
+        {
+            "Cliente": 237,
+            "Nome": "Agrupamento de Escolas de Prado",
+            "Nome Fiscal": "Agrupamento de Escolas de Prado",
+            "Morada": "Rua Dr. Lima Cruz",
+            "Telefone": "",
+            "N. Contribuinte": 600079619
+        },
+        {
+            "Cliente": 238,
+            "Nome": "CTE-Altamente, Lda",
+            "Nome Fiscal": "CTE-Altamente, Lda",
+            "Morada": "Avenida da Rep�blica, n. 5E",
+            "Telefone": "",
+            "N. Contribuinte": 515598836
+        },
+        {
+            "Cliente": 239,
+            "Nome": "TCO - Transportes, Unipessoal, Lda",
+            "Nome Fiscal": "TCO - Transportes, Unipessoal, Lda",
+            "Morada": "Rua da Republica 103",
+            "Telefone": "",
+            "N. Contribuinte": 514022809
+        },
+        {
+            "Cliente": 240,
+            "Nome": "Universidade do Minho",
+            "Nome Fiscal": "Universidade do Minho",
+            "Morada": "Largo do Pa�o",
+            "Telefone": "",
+            "N. Contribuinte": 502011378
+        },
+        {
+            "Cliente": 241,
+            "Nome": "Edigma SA",
+            "Nome Fiscal": "Edigma SA",
+            "Morada": "Parque Industrial de Ada�fe",
+            "Telefone": "",
+            "N. Contribuinte": 508304610
+        },
+        {
+            "Cliente": 242,
+            "Nome": "Mebra-Com. Por Grosso Matais e Ass. de Braga, S.A.",
+            "Nome Fiscal": "Mebra-Com. Por Grosso Matais e Ass. de Braga, S.A.",
+            "Morada": "Lugar do Barreiro",
+            "Telefone": "253 929 600",
+            "N. Contribuinte": 502771020
+        },
+        {
+            "Cliente": 243,
+            "Nome": "DLE, lda",
+            "Nome Fiscal": "DLE, lda",
+            "Morada": "Largo Senhora-A-Branca, N� 47",
+            "Telefone": "",
+            "N. Contribuinte": 503760897
+        },
+        {
+            "Cliente": 244,
+            "Nome": "Fisacar",
+            "Nome Fiscal": "Ferreira Guimar�es, Lda",
+            "Morada": "Rua Joaquim Miranda Campelo",
+            "Telefone": "",
+            "N. Contribuinte": 503304395
+        },
+        {
+            "Cliente": 245,
+            "Nome": "EDP Distribui��o - Energia S. A.",
+            "Nome Fiscal": "EDP Distribui��o - Energia S. A.",
+            "Morada": "Lisboa",
+            "Telefone": "",
+            "N. Contribuinte": 504394029
+        },
+        {
+            "Cliente": 246,
+            "Nome": "Alexandra Ferreira",
+            "Nome Fiscal": "Alexandra Ferreira",
+            "Morada": "Rua Jos� Vidal da Costa, n.170, 1.drt",
+            "Telefone": "",
+            "N. Contribuinte": 249357410
+        },
+        {
+            "Cliente": 247,
+            "Nome": "JOF",
+            "Nome Fiscal": "Jos� Oliveira & Filhos, Lda.",
+            "Morada": "Largo da P�voa",
+            "Telefone": "",
+            "N. Contribuinte": 503669229
+        },
+        {
+            "Cliente": 248,
+            "Nome": "Saniestilo - Materiais de Constru��o, Lda.",
+            "Nome Fiscal": "Saniestilo - Materiais de Constru��o, Lda.",
+            "Morada": "Rua Outeiro Levado",
+            "Telefone": "",
+            "N. Contribuinte": 504984810
+        },
+        {
+            "Cliente": 249,
+            "Nome": "Sapataria Cunha",
+            "Nome Fiscal": "Jos� Ant�nio Sousa Cunha",
+            "Morada": "Largo Domingos Pereira Ara�jo, 326",
+            "Telefone": "",
+            "N. Contribuinte": 175651795
+        },
+        {
+            "Cliente": 250,
+            "Nome": "Petroceleiros AC Lda",
+            "Nome Fiscal": "Petroceleiros AC Lda",
+            "Morada": "Av. Covedelo Celeir�s",
+            "Telefone": "",
+            "N. Contribuinte": 503501484
+        },
+        {
+            "Cliente": 251,
+            "Nome": "Smr - Sucata de Marrancos, Unipessoal Lda",
+            "Nome Fiscal": "Smr - Sucata de Marrancos, Unipessoal Lda",
+            "Morada": "Avenida Central, N. 190",
+            "Telefone": "",
+            "N. Contribuinte": 513390049
+        },
+        {
+            "Cliente": 252,
+            "Nome": "Ourivesaria Melo",
+            "Nome Fiscal": "Domingos Ismael Magalh�es de Melo",
+            "Morada": "Largo Domingos Pereira Ara�jo, 476",
+            "Telefone": "",
+            "N. Contribuinte": 155923110
+        },
+        {
+            "Cliente": 253,
+            "Nome": "Manuel Ant�nio Rodrigues de Miranda Lda",
+            "Nome Fiscal": "Manuel Ant�nio Rodrigues de Miranda Lda",
+            "Morada": "Rua do Pa�o, 670",
+            "Telefone": "",
+            "N. Contribuinte": 505588714
+        },
+        {
+            "Cliente": 254,
+            "Nome": "Victor Manuel Silva Peixoto",
+            "Nome Fiscal": "Victor Manuel Silva Peixoto",
+            "Morada": "Rua Futebol Clube Felgueiras, 178",
+            "Telefone": "",
+            "N. Contribuinte": 203598245
+        },
+        {
+            "Cliente": 255,
+            "Nome": "Auto Pneus Carones - Com�rcio de Pneus Lda",
+            "Nome Fiscal": "Auto Pneus Carones - Com�rcio de Pneus Lda",
+            "Morada": "Rua 1 da Aguela, N� 2",
+            "Telefone": "",
+            "N. Contribuinte": 503589950
+        },
+        {
+            "Cliente": 256,
+            "Nome": "Revive Urban Spa",
+            "Nome Fiscal": "Revive Urban Spa",
+            "Morada": "Rua Cruz de Pedra, 12",
+            "Telefone": "",
+            "N. Contribuinte": 208440909
+        },
+        {
+            "Cliente": 257,
+            "Nome": "Standplayers, lda",
+            "Nome Fiscal": "Standplayers, lda",
+            "Morada": "Rua Nova da Devesa, 14",
+            "Telefone": "",
+            "N. Contribuinte": 507834283
+        },
+        {
+            "Cliente": 258,
+            "Nome": "Steelplan",
+            "Nome Fiscal": "DECIMALBRIDGE - UNIPESSOAL LDA",
+            "Morada": "Rua Jacinto Vieira, Lote 33",
+            "Telefone": "",
+            "N. Contribuinte": 514881780
+        },
+        {
+            "Cliente": 259,
+            "Nome": "I9-Design - Est�dio de Cozinhas, Lda",
+            "Nome Fiscal": "I9-Design - Est�dio de Cozinhas, Lda",
+            "Morada": "Via do Foral Velho de Dona Teresa Lote 35F",
+            "Telefone": "",
+            "N. Contribuinte": 509366651
+        },
+        {
+            "Cliente": 260,
+            "Nome": "Galerias Macieira & Silva, Lda.",
+            "Nome Fiscal": "Galerias Macieira & Silva, Lda.",
+            "Morada": "Av. de Rendufinho, N� 566",
+            "Telefone": "",
+            "N. Contribuinte": 506523616
+        },
+        {
+            "Cliente": 261,
+            "Nome": "Locasoft - Loca��o e Com�rcio de Inform�tica, Lda",
+            "Nome Fiscal": "Locasoft - Loca��o e Com�rcio de Inform�tica, Lda",
+            "Morada": "Rua dos Sobreiros, N� 409",
+            "Telefone": "",
+            "N. Contribuinte": 503159441
+        },
+        {
+            "Cliente": 262,
+            "Nome": "Argacol - Tintas e Vernizes, S.A",
+            "Nome Fiscal": "Argacol - Tintas e Vernizes, S.A",
+            "Morada": "Avenida Portas do Minho 711",
+            "Telefone": "",
+            "N. Contribuinte": 501115099
+        },
+        {
+            "Cliente": 263,
+            "Nome": "Rolear - Automatiza��es, Est. e Representa��es, SA",
+            "Nome Fiscal": "Rolear - Automatiza��es, Est. e Representa��es, SA",
+            "Morada": "Parque Rolear, S�tio do Areal Gordo",
+            "Telefone": "",
+            "N. Contribuinte": 500883750
+        },
+        {
+            "Cliente": 264,
+            "Nome": "Limiana Granitos Lda",
+            "Nome Fiscal": "Limiana Granitos Lda",
+            "Morada": "S�o Louren�o",
+            "Telefone": "",
+            "N. Contribuinte": 503059650
+        },
+        {
+            "Cliente": 265,
+            "Nome": "VBN Mobili�rio",
+            "Nome Fiscal": "Dion�sio Pereira da Silva",
+            "Morada": "Avenida da Igreja",
+            "Telefone": "",
+            "N. Contribuinte": 201208253
+        },
+        {
+            "Cliente": 266,
+            "Nome": "Eduardo Catarino Rego, Unipessoal Lda",
+            "Nome Fiscal": "Eduardo Catarino Rego, Unipessoal Lda",
+            "Morada": "Rua Pedras Brancas, N� 372 B",
+            "Telefone": "",
+            "N. Contribuinte": 513685359
+        },
+        {
+            "Cliente": 267,
+            "Nome": "V�tor Mora, Unipessoal Lda",
+            "Nome Fiscal": "V�tor Mora, Unipessoal Lda",
+            "Morada": "Rua Industrial n. 1638A",
+            "Telefone": "",
+            "N. Contribuinte": 513922571
+        },
+        {
+            "Cliente": 268,
+            "Nome": "Ricardo Jos� Pombo Freitas",
+            "Nome Fiscal": "Ricardo Jos� Pombo Freitas",
+            "Morada": "Rua Jo�o de Carape�os, n. 70",
+            "Telefone": "",
+            "N. Contribuinte": 228008166
+        },
+        {
+            "Cliente": 269,
+            "Nome": "Magnetiksmile - Fitness e Desporto, Lda",
+            "Nome Fiscal": "Magnetiksmile - Fitness e Desporto, Lda",
+            "Morada": "Rua de S�o Jo�o, 398, R/C, Esquerdo",
+            "Telefone": "",
+            "N. Contribuinte": 510718167
+        },
+        {
+            "Cliente": 270,
+            "Nome": "Munic�pio da Figueira da Foz",
+            "Nome Fiscal": "Munic�pio da Figueira da Foz",
+            "Morada": "Apartado 197",
+            "Telefone": "",
+            "N. Contribuinte": 501305580
+        },
+        {
+            "Cliente": 271,
+            "Nome": "Joaquim Sequeira - Investimentos Imobili�rios, S.A",
+            "Nome Fiscal": "Joaquim Sequeira - Investimentos Imobili�rios, S.A",
+            "Morada": "Largo de S. Jo�o do Souto, n. 14/15",
+            "Telefone": "",
+            "N. Contribuinte": 505201593
+        },
+        {
+            "Cliente": 272,
+            "Nome": "FAM - M�quinas e Tratores, Lda",
+            "Nome Fiscal": "FAM - M�quinas e Tratores, Lda",
+            "Morada": "Av. Barros e Soares",
+            "Telefone": "",
+            "N. Contribuinte": 513601864
+        },
+        {
+            "Cliente": 273,
+            "Nome": "Domus Qualitas, Constru��o e Reabilita��o Lda",
+            "Nome Fiscal": "Domus Qualitas, Constru��o e Reabilita��o Lda",
+            "Morada": "Rua Padre Ant�nio Freire n.19 6.Esq",
+            "Telefone": "",
+            "N. Contribuinte": 515633712
+        },
+        {
+            "Cliente": 274,
+            "Nome": "Albano Oliveira da Silva & Filhos Lda",
+            "Nome Fiscal": "Albano Oliveira da Silva & Filhos Lda",
+            "Morada": "R. de Santo Andr� 49",
+            "Telefone": "",
+            "N. Contribuinte": 505220300
+        },
+        {
+            "Cliente": 275,
+            "Nome": "Ledechem - Produtos Qu�micos, SA",
+            "Nome Fiscal": "Ledechem - Produtos Qu�micos, SA",
+            "Morada": "Rua dos Coleiros, 76",
+            "Telefone": "",
+            "N. Contribuinte": 501187880
+        },
+        {
+            "Cliente": 276,
+            "Nome": "Normac - Apoio � Ind�stria T�xtil, Lda",
+            "Nome Fiscal": "Normac - Apoio � Ind�stria T�xtil, Lda",
+            "Morada": "Rua do Mirante, N� 795",
+            "Telefone": "",
+            "N. Contribuinte": 503484750
+        },
+        {
+            "Cliente": 277,
+            "Nome": "Associa��o C.c.g. / Zgdv - Centro de Comp. Gr�fica",
+            "Nome Fiscal": "Associa��o C.c.g. / Zgdv - Centro de Comp. Gr�fica",
+            "Morada": "Campus de Azur�m, edf. 14",
+            "Telefone": "",
+            "N. Contribuinte": 503092584
+        },
+        {
+            "Cliente": 278,
+            "Nome": "Mavifum - Foto Rodas, lda",
+            "Nome Fiscal": "Mavifum - Foto Rodas, lda",
+            "Morada": "Rua Tenente Valadim, 113",
+            "Telefone": "",
+            "N. Contribuinte": 508514991
+        },
+        {
+            "Cliente": 279,
+            "Nome": "Hugo Jos� de Freitas Magalh�es",
+            "Nome Fiscal": "Hugo Jos� de Freitas Magalh�es",
+            "Morada": "Rua Emigrante n. 75",
+            "Telefone": "",
+            "N. Contribuinte": 221055541
+        },
+        {
+            "Cliente": 280,
+            "Nome": "2JM Importa��o e Exporta��o de Texteis, Lda",
+            "Nome Fiscal": "2JM Importa��o e Exporta��o de Texteis, Lda",
+            "Morada": "Rua Eenesto Gon�alves 320",
+            "Telefone": "",
+            "N. Contribuinte": 502315962
+        },
+        {
+            "Cliente": 281,
+            "Nome": "Sisal - Materiais de Constru��o S. A.",
+            "Nome Fiscal": "Sisal - Materiais de Constru��o S. A.",
+            "Morada": "Zona Industrial da Faiteira",
+            "Telefone": "",
+            "N. Contribuinte": 501161511
+        },
+        {
+            "Cliente": 282,
+            "Nome": "Top Pet, Lda",
+            "Nome Fiscal": "Top Pet, Lda",
+            "Morada": "Rua Eng. Frederico Ulrich 2740",
+            "Telefone": "",
+            "N. Contribuinte": 508757851
+        },
+        {
+            "Cliente": 283,
+            "Nome": "Drogaria Central do Louro, Lda.",
+            "Nome Fiscal": "Drogaria Central do Louro, Lda.",
+            "Morada": "Rua Padre Domingos J. Pereira",
+            "Telefone": "",
+            "N. Contribuinte": 500088012
+        },
+        {
+            "Cliente": 284,
+            "Nome": "Severino Oliveira Os�rio",
+            "Nome Fiscal": "Severino Oliveira Os�rio",
+            "Morada": "Rua da Pedra, 7",
+            "Telefone": "",
+            "N. Contribuinte": 111700191
+        },
+        {
+            "Cliente": 285,
+            "Nome": "NBS motors, unipessoal lda.",
+            "Nome Fiscal": "NBS motors, unipessoal lda.",
+            "Morada": "Rua N� da Cruz, 242",
+            "Telefone": "",
+            "N. Contribuinte": 510234879
+        },
+        {
+            "Cliente": 286,
+            "Nome": "Pastelaria D. Pedro I",
+            "Nome Fiscal": "Florisa Costa, unipessoal lda.",
+            "Morada": "Rua Capit�o Manuel Carvalho, loja 4",
+            "Telefone": "",
+            "N. Contribuinte": 515585742
+        },
+        {
+            "Cliente": 287,
+            "Nome": "S� madeiras",
+            "Nome Fiscal": "Costa & Dur�es Lda",
+            "Morada": "Rua das Pinheiras, N� 6",
+            "Telefone": "",
+            "N. Contribuinte": 505658267
+        },
+        {
+            "Cliente": 288,
+            "Nome": "Talho Manecas",
+            "Nome Fiscal": "Escolha Pioneira, Lda.",
+            "Morada": "Rua Francisco Machado Owen, n. 8, R/C",
+            "Telefone": "",
+            "N. Contribuinte": 509438547
+        },
+        {
+            "Cliente": 289,
+            "Nome": "Jos� Rui Seabra Caetano",
+            "Nome Fiscal": "Jos� Rui Seabra Caetano",
+            "Morada": "Braga",
+            "Telefone": "",
+            "N. Contribuinte": 213988755
+        },
+        {
+            "Cliente": 290,
+            "Nome": "Isac Costa e Carina Ferreira, Lda.",
+            "Nome Fiscal": "Isac Costa e Carina Ferreira, Lda.",
+            "Morada": "Rua Almirante Gago Coutinho, n. 10A",
+            "Telefone": "",
+            "N. Contribuinte": 514251484
+        },
+        {
+            "Cliente": 291,
+            "Nome": "Multiklip",
+            "Nome Fiscal": "Manuela Ribeiro & Domingos Santos, Lda",
+            "Morada": "Rua da Gandra, N� 8",
+            "Telefone": "",
+            "N. Contribuinte": 508920655
+        },
+        {
+            "Cliente": 292,
+            "Nome": "Carlos Alberto da Silva Esteves e Filhos, Lda.",
+            "Nome Fiscal": "Carlos Alberto da Silva Esteves e Filhos, Lda.",
+            "Morada": "Rua Nova de Santa Cruz, 260",
+            "Telefone": "",
+            "N. Contribuinte": 510149499
+        },
+        {
+            "Cliente": 293,
+            "Nome": "Associa��o de Futebol de Braga",
+            "Nome Fiscal": "Associa��o de Futebol de Braga",
+            "Morada": "Avenida Jo�o Paulo II, 2",
+            "Telefone": "",
+            "N. Contribuinte": 501082700
+        },
+        {
+            "Cliente": 294,
+            "Nome": "Iberduna - Artigos de viagem, Lda.",
+            "Nome Fiscal": "Iberduna - Artigos de viagem, Lda.",
+            "Morada": "Rua Cidade do Porto, Edif�cio Olimpus, n. 87",
+            "Telefone": "",
+            "N. Contribuinte": 503482579
+        },
+        {
+            "Cliente": 295,
+            "Nome": "Talentos D'outrora - Restaura��o e Bebidas Un, Lda",
+            "Nome Fiscal": "Talentos D'outrora - Restaura��o e Bebidas Un, Lda",
+            "Morada": "Rua Casas Queimadas, 717",
+            "Telefone": "",
+            "N. Contribuinte": 515537799
+        },
+        {
+            "Cliente": 296,
+            "Nome": "Sogno & Letto - Sistemas de Descanso, Lda",
+            "Nome Fiscal": "Sogno & Letto - Sistemas de Descanso, Lda",
+            "Morada": "Plano Parque Empresarial, Armaz�m B403",
+            "Telefone": "",
+            "N. Contribuinte": 513608931
+        },
+        {
+            "Cliente": 297,
+            "Nome": "Grupo TCO",
+            "Nome Fiscal": "Invecart - Gest�o, Com. e Investimentos, Unip. Lda",
+            "Morada": "Rua da Rep�blica, 103",
+            "Telefone": "",
+            "N. Contribuinte": 507999479
+        },
+        {
+            "Cliente": 298,
+            "Nome": "Condom�nio do edif�cio Anacional",
+            "Nome Fiscal": "Condom�nio do edif�cio Anacional",
+            "Morada": "Av. da Liberdade, 660 a 672",
+            "Telefone": "",
+            "N. Contribuinte": 901688347
+        },
+        {
+            "Cliente": 299,
+            "Nome": "Mackay Pereira Unipessoal",
+            "Nome Fiscal": "Mackay Pereira Unipessoal",
+            "Morada": "Rua de Alc�ntara - Antigo IVV",
+            "Telefone": "",
+            "N. Contribuinte": 514522224
+        },
+        {
+            "Cliente": 300,
+            "Nome": "INFINEXY, LDA",
+            "Nome Fiscal": "INFINEXY, LDA",
+            "Morada": "Rua 28 de Janeiro, 350",
+            "Telefone": "",
+            "N. Contribuinte": 515763071
+        },
+        {
+            "Cliente": 301,
+            "Nome": "ADI Kitchen design Lda.",
+            "Nome Fiscal": "ADI Kitchen design Lda.",
+            "Morada": "Rua Lu�s Ant�nio Correira, 66",
+            "Telefone": "",
+            "N. Contribuinte": 513942424
+        },
+        {
+            "Cliente": 302,
+            "Nome": "Estevauto, Lda",
+            "Nome Fiscal": "Estevauto, Lda",
+            "Morada": "Rua Cidade do Porto, 86",
+            "Telefone": "",
+            "N. Contribuinte": 503728926
+        },
+        {
+            "Cliente": 303,
+            "Nome": "DRACO - Produtos e Com�rcio de M�quinas, Lda",
+            "Nome Fiscal": "DRACO - Produtos e Com�rcio de M�quinas, Lda",
+            "Morada": "Rua da Telha, n� 470",
+            "Telefone": "",
+            "N. Contribuinte": 509230288
+        },
+        {
+            "Cliente": 304,
+            "Nome": "IW Constru��o Dec. de Int. e Equipamentos Lda.",
+            "Nome Fiscal": "IW Constru��o Dec. de Int. e Equipamentos Lda.",
+            "Morada": "Rua do Parque Industrial, Pavilh�o 32",
+            "Telefone": "",
+            "N. Contribuinte": 510691838
+        },
+        {
+            "Cliente": 305,
+            "Nome": "S. C. Autom�veis e Componentes S.A.",
+            "Nome Fiscal": "S. C. Autom�veis e Componentes S.A.",
+            "Morada": "Edif�cio Stock Car",
+            "Telefone": "",
+            "N. Contribuinte": 501085408
+        },
+        {
+            "Cliente": 306,
+            "Nome": "Baltor - Engenharia e Constru��o Lda",
+            "Nome Fiscal": "Baltor - Engenharia e Constru��o Lda",
+            "Morada": "Polo Industrial da Meadela, Lote 35",
+            "Telefone": "",
+            "N. Contribuinte": 508432430
+        },
+        {
+            "Cliente": 307,
+            "Nome": "TURILIMA EMP. TURISTICOS DO VALE DO LIMA, S.A.",
+            "Nome Fiscal": "TURILIMA EMP. TURISTICOS DO VALE DO LIMA, S.A.",
+            "Morada": "AXIS VIANA",
+            "Telefone": "",
+            "N. Contribuinte": 503091200
+        },
+        {
+            "Cliente": 308,
+            "Nome": "Loja das Maquetas",
+            "Nome Fiscal": "Bold Comunica��o e Design lda.",
+            "Morada": "Rua de S�o Bento 106 C",
+            "Telefone": "",
+            "N. Contribuinte": 503917605
+        },
+        {
+            "Cliente": 309,
+            "Nome": "BIKE ZONE, S.A.",
+            "Nome Fiscal": "BIKE ZONE, S.A.",
+            "Morada": "Avenida Dom Jo�o II, 382",
+            "Telefone": "",
+            "N. Contribuinte": 506913643
+        },
+        {
+            "Cliente": 310,
+            "Nome": "Farm�cia da Ap�lia",
+            "Nome Fiscal": "Maria Aur�lia Q. Cerqueira Oliveira",
+            "Morada": "Av. da Praia",
+            "Telefone": "",
+            "N. Contribuinte": 139851658
+        },
+        {
+            "Cliente": 311,
+            "Nome": "Fidelidade",
+            "Nome Fiscal": "Fidelidade",
+            "Morada": "Apartado 8116 - EC Cabo Ruivo",
+            "Telefone": "",
+            "N. Contribuinte": 500918880
+        },
+        {
+            "Cliente": 312,
+            "Nome": "Min Hund, Lda",
+            "Nome Fiscal": "Min Hund, Lda",
+            "Morada": "Rua Eng. Pimentel, 5 - lt 4",
+            "Telefone": "",
+            "N. Contribuinte": 510176526
+        },
+        {
+            "Cliente": 313,
+            "Nome": "Pichelaria Santa Cruz, Lda.",
+            "Nome Fiscal": "Pichelaria Santa Cruz, Lda.",
+            "Morada": "Av.� Santa Ana, n. 125",
+            "Telefone": "",
+            "N. Contribuinte": 505734141
+        },
+        {
+            "Cliente": 314,
+            "Nome": "M�rcio Oliveira",
+            "Nome Fiscal": "M�rcio Oliveira",
+            "Morada": "Avenida Jo�o XXI, 627, 1� andar, gabinete 4",
+            "Telefone": "",
+            "N. Contribuinte": 221833722
+        },
+        {
+            "Cliente": 315,
+            "Nome": "Decis�es e Solu��es Tribunal",
+            "Nome Fiscal": "N�meros Dedut�veis",
+            "Morada": "Rua Professor Machado Vilela, 242",
+            "Telefone": "",
+            "N. Contribuinte": 515487473
+        },
+        {
+            "Cliente": 316,
+            "Nome": "Lucemplast, Lda.",
+            "Nome Fiscal": "Lucemplast, Lda.",
+            "Morada": "Av. Porto Carreiro, 109",
+            "Telefone": "",
+            "N. Contribuinte": 513283552
+        },
+        {
+            "Cliente": 317,
+            "Nome": "Vintage Pan�plia, Lda.",
+            "Nome Fiscal": "Vintage Pan�plia, Lda.",
+            "Morada": "Rua do Bom Jesus, 8/10 2� andar",
+            "Telefone": "",
+            "N. Contribuinte": 514008750
+        },
+        {
+            "Cliente": 318,
+            "Nome": "Partido Socialista - Concelho de Braga",
+            "Nome Fiscal": "Partido Socialista - Concelho de Braga",
+            "Morada": "Avenida Jo�o XXI, 421",
+            "Telefone": "",
+            "N. Contribuinte": 501312188
+        },
+        {
+            "Cliente": 319,
+            "Nome": "PERFILRETO, Lda",
+            "Nome Fiscal": "PERFILRETO, Lda",
+            "Morada": "Avenida central,  N� 193",
+            "Telefone": "",
+            "N. Contribuinte": 515846686
+        },
+        {
+            "Cliente": 320,
+            "Nome": "Bocas e Tainas Restaura��o, Lda",
+            "Nome Fiscal": "Bocas e Tainas Restaura��o, Lda",
+            "Morada": "Centro empresarial de Braga",
+            "Telefone": "",
+            "N. Contribuinte": 509720200
+        },
+        {
+            "Cliente": 321,
+            "Nome": "Carlos e Eduardo, produtos alimentares, lda",
+            "Nome Fiscal": "Carlos e Eduardo, produtos alimentares, lda",
+            "Morada": "Rua Comendador Alberto Magalh�es Sousa, lote 9",
+            "Telefone": "",
+            "N. Contribuinte": 506521931
+        },
+        {
+            "Cliente": 322,
+            "Nome": "Sociedade das �guas de Monchique S.A.",
+            "Nome Fiscal": "Sociedade das �guas de Monchique S.A.",
+            "Morada": "Caldas de Monchique S/N",
+            "Telefone": "",
+            "N. Contribuinte": 503171670
+        },
+        {
+            "Cliente": 323,
+            "Nome": "Bracaramoldura, Lda",
+            "Nome Fiscal": "Bracaramoldura, Lda",
+            "Morada": "Rua Monsenhor Airosa, 54 B",
+            "Telefone": "",
+            "N. Contribuinte": 508675847
+        },
+        {
+            "Cliente": 324,
+            "Nome": "Paulo Avelino Marques dos Santos",
+            "Nome Fiscal": "Paulo Avelino Marques dos Santos",
+            "Morada": "R. Nova de Fonte Cova N� 9",
+            "Telefone": "",
+            "N. Contribuinte": 157478033
+        },
+        {
+            "Cliente": 325,
+            "Nome": "Bram�dica Fisio, Lda",
+            "Nome Fiscal": "Bram�dica Fisio, Lda",
+            "Morada": "Rua Costa Soares, n 3",
+            "Telefone": "",
+            "N. Contribuinte": 508560152
+        },
+        {
+            "Cliente": 326,
+            "Nome": "Cabe�a de casal da heran�a",
+            "Nome Fiscal": "Cabe�a de casal da heran�a",
+            "Morada": "Largo Sr.� a Branca, 124",
+            "Telefone": "",
+            "N. Contribuinte": 707503035
+        },
+        {
+            "Cliente": 327,
+            "Nome": "Bomboleo, Lda",
+            "Nome Fiscal": "Bomboleo, Lda",
+            "Morada": "Parque Industrial de Celeir�s, 19",
+            "Telefone": "",
+            "N. Contribuinte": 500046280
+        },
+        {
+            "Cliente": 328,
+            "Nome": "Frigideiras do Cantinho",
+            "Nome Fiscal": "Pereira & Rocha Lda.",
+            "Morada": "Largo S�o Jo�o do Souto, 1",
+            "Telefone": "",
+            "N. Contribuinte": 500464081
+        },
+        {
+            "Cliente": 329,
+            "Nome": "Temperfen�meno Unipessoal, Lda",
+            "Nome Fiscal": "Temperfen�meno Unipessoal, Lda",
+            "Morada": "Avenida Barros e Soares n. 444-446",
+            "Telefone": "",
+            "N. Contribuinte": 510815561
+        },
+        {
+            "Cliente": 330,
+            "Nome": "Talho Vasconcelos",
+            "Nome Fiscal": "Ribeiro & Vasconcelos, Lda.",
+            "Morada": "Rua dos Barbosas, 15",
+            "Telefone": 253610961,
+            "N. Contribuinte": 502141352
+        },
+        {
+            "Cliente": 331,
+            "Nome": "Restaurante Espa�o 12",
+            "Nome Fiscal": "Domingos e Teresinha, lda.",
+            "Morada": "Rua da F�brica, 12",
+            "Telefone": "",
+            "N. Contribuinte": 505497867
+        },
+        {
+            "Cliente": 332,
+            "Nome": "Curriqueijo",
+            "Nome Fiscal": "Ana Lima & Jos� Lima",
+            "Morada": "Rua dos Bisca�nhos, 89",
+            "Telefone": "",
+            "N. Contribuinte": 514710594
+        },
+        {
+            "Cliente": 333,
+            "Nome": "Sugest�es & Mordomias, Unipessoal, Lda.",
+            "Nome Fiscal": "Sugest�es & Mordomias, Unipessoal, Lda.",
+            "Morada": "Rua dos Padres Carmelitas, 19",
+            "Telefone": "",
+            "N. Contribuinte": 514734299
+        },
+        {
+            "Cliente": 334,
+            "Nome": "Bricodumonde unipessoal, LDA",
+            "Nome Fiscal": "Bricodumonde unipessoal, LDA",
+            "Morada": "Rua do Caires, 177",
+            "Telefone": "",
+            "N. Contribuinte": 507649524
+        },
+        {
+            "Cliente": 335,
+            "Nome": "Resinex Portugal, Unipessoal Lda",
+            "Nome Fiscal": "Resinex Portugal, Unipessoal Lda",
+            "Morada": "AVENIDA DA LIBERDADE 615 , 1�",
+            "Telefone": "",
+            "N. Contribuinte": 509335349
+        },
+        {
+            "Cliente": 336,
+            "Nome": "S�rgio Jos� Vieira Pereira Moreira",
+            "Nome Fiscal": "S�rgio Jos� Vieira Pereira Moreira",
+            "Morada": "Rua Avelino Jesus Costa, 40, 4� Dto",
+            "Telefone": "",
+            "N. Contribuinte": 204959705
+        },
+        {
+            "Cliente": 337,
+            "Nome": "Sosequeiras - Garagens, Ve�c. e Supermercados, Lda",
+            "Nome Fiscal": "Sosequeiras - Garagens, Ve�c. e Supermercados, Lda",
+            "Morada": "Largo S. Jo�o do Souto, 14/15 - 2�",
+            "Telefone": "",
+            "N. Contribuinte": 500464235
+        },
+        {
+            "Cliente": 338,
+            "Nome": "Agarb - M�quinas e ferramentas, lda.",
+            "Nome Fiscal": "Agarb - M�quinas e ferramentas, lda.",
+            "Morada": "Lugar de Cabanas, Lote 4A",
+            "Telefone": "",
+            "N. Contribuinte": 504311557
+        },
+        {
+            "Cliente": 339,
+            "Nome": "Light2Costa Engenharia Lda.",
+            "Nome Fiscal": "Light2Costa Engenharia Lda.",
+            "Morada": "Rua Paulo Gosmes Pinto, n. 8 R/C A e B",
+            "Telefone": "",
+            "N. Contribuinte": 508118204
+        },
+        {
+            "Cliente": 340,
+            "Nome": "Plasticity - inje�ao de pe�as t�cnicas, Lda",
+            "Nome Fiscal": "Plasticity - inje�ao de pe�as t�cnicas, Lda",
+            "Morada": "Rua dos Fornos, 108",
+            "Telefone": "",
+            "N. Contribuinte": 513523634
+        },
+        {
+            "Cliente": 341,
+            "Nome": "Silva Limpa",
+            "Nome Fiscal": "E.S.E. Produtos e servi�os de limpeza, Lda",
+            "Morada": "Rua Conselheiro Lobato, 517",
+            "Telefone": "",
+            "N. Contribuinte": 509591485
+        },
+        {
+            "Cliente": 342,
+            "Nome": "Newcoffee - Ind�stria Torrefatora de Caf�s, S.A",
+            "Nome Fiscal": "Newcoffee - Ind�stria Torrefatora de Caf�s, S.A",
+            "Morada": "Rua Monte da P�voa, N� 134",
+            "Telefone": "",
+            "N. Contribuinte": 508348684
+        },
+        {
+            "Cliente": 343,
+            "Nome": "Home Piso - Pavimentos e Revestimentos, Lda",
+            "Nome Fiscal": "Home Piso - Pavimentos e Revestimentos, Lda",
+            "Morada": "Rua Feliciano Ramos, N� 45",
+            "Telefone": "",
+            "N. Contribuinte": 514308230
+        },
+        {
+            "Cliente": 344,
+            "Nome": "Brilhantino & Amaral unipessoal, Lda",
+            "Nome Fiscal": "Brilhantino & Amaral unipessoal, Lda",
+            "Morada": "Quinta da Carreira, Lote 16",
+            "Telefone": "",
+            "N. Contribuinte": 503352993
+        },
+        {
+            "Cliente": 345,
+            "Nome": "Curriqueijo II",
+            "Nome Fiscal": "Jo�o Rodrigues Fernandes e Filhos, Lda.",
+            "Morada": "Rua Soares Pereira, 229",
+            "Telefone": "",
+            "N. Contribuinte": 503796875
+        },
+        {
+            "Cliente": 346,
+            "Nome": "Aptivport Services S.A.",
+            "Nome Fiscal": "Aptivport Services S.A.",
+            "Morada": "Rua Max Grundig n� 1",
+            "Telefone": "",
+            "N. Contribuinte": 502687843
+        },
+        {
+            "Cliente": 347,
+            "Nome": "S�rgio Cani�o, lda",
+            "Nome Fiscal": "S�rgio Cani�o, lda",
+            "Morada": "Travessa da Vinha, 12",
+            "Telefone": "",
+            "N. Contribuinte": 515144240
+        },
+        {
+            "Cliente": 348,
+            "Nome": "Skillmind - Consultoria e Sist. de Informa��o, Lda",
+            "Nome Fiscal": "Skillmind - Consultoria e Sist. de Informa��o, Lda",
+            "Morada": "Rua do Fujacal n� 28",
+            "Telefone": "",
+            "N. Contribuinte": 507650387
+        },
+        {
+            "Cliente": 349,
+            "Nome": "Ana Rodrigues & Carmo Silva, Lda",
+            "Nome Fiscal": "Ana Rodrigues & Carmo Silva, Lda",
+            "Morada": "Rua do Raio, 43-45",
+            "Telefone": "",
+            "N. Contribuinte": 503223433
+        },
+        {
+            "Cliente": 350,
+            "Nome": "INL",
+            "Nome Fiscal": "Laborat�rio Ib�rico Inter. de Nanotecnologia",
+            "Morada": "Av. Mestre Jos� Veiga, S/N",
+            "Telefone": "",
+            "N. Contribuinte": 508633346
+        },
+        {
+            "Cliente": 351,
+            "Nome": "Dr. Filomena Frija - Servi�os M�dicos, Lda",
+            "Nome Fiscal": "Dr. Filomena Frija - Servi�os M�dicos, Lda",
+            "Morada": "Rua Ant�nio de Andrade, lote 1157 - bloco C 1� esq",
+            "Telefone": "",
+            "N. Contribuinte": 505144522
+        },
+        {
+            "Cliente": 352,
+            "Nome": "Recauchutagem Ram�a S.A",
+            "Nome Fiscal": "Recauchutagem Ram�a S.A",
+            "Morada": "Av do Cavado 114/116",
+            "Telefone": "",
+            "N. Contribuinte": 500206619
+        },
+        {
+            "Cliente": 353,
+            "Nome": "F�brica Paroquial de Nogueira",
+            "Nome Fiscal": "F�brica Paroquial de Nogueira",
+            "Morada": "Nogueira",
+            "Telefone": "",
+            "N. Contribuinte": 502006609
+        },
+        {
+            "Cliente": 354,
+            "Nome": "Centro Social da Par�quia de Nogueira",
+            "Nome Fiscal": "Centro Social da Par�quia de Nogueira",
+            "Morada": "Rua da Igreja",
+            "Telefone": "",
+            "N. Contribuinte": 502323086
+        },
+        {
+            "Cliente": 355,
+            "Nome": "Centro Social da Paroquia de S�o Pedro",
+            "Nome Fiscal": "Centro Social da Paroquia de S�o Pedro",
+            "Morada": "Assento",
+            "Telefone": "",
+            "N. Contribuinte": 502127201
+        },
+        {
+            "Cliente": 356,
+            "Nome": "Par�quia de S�o Pedro Lomar",
+            "Nome Fiscal": "Par�quia de S�o Pedro Lomar",
+            "Morada": "Rua da Resid�ncia, 2",
+            "Telefone": "",
+            "N. Contribuinte": 501181733
+        },
+        {
+            "Cliente": 357,
+            "Nome": "Associa��o da Creche de Braga",
+            "Nome Fiscal": "Associa��o da Creche de Braga",
+            "Morada": "Rua do Raio n� 235",
+            "Telefone": "",
+            "N. Contribuinte": 500875278
+        },
+        {
+            "Cliente": 358,
+            "Nome": "FMAP BRASER STEEL, LDA",
+            "Nome Fiscal": "FMAP BRASER STEEL, LDA",
+            "Morada": "Rua da Agrinha, 33",
+            "Telefone": "",
+            "N. Contribuinte": 514880767
+        },
+        {
+            "Cliente": 359,
+            "Nome": "Braga Ponte, Lda.",
+            "Nome Fiscal": "Braga Ponte, Lda.",
+            "Morada": "Rua Fernando Oliveira Guimar�es",
+            "Telefone": "",
+            "N. Contribuinte": 503244821
+        },
+        {
+            "Cliente": 360,
+            "Nome": "Norte Braga Snack Bar, Cervejaria, lda",
+            "Nome Fiscal": "Norte Braga Snack Bar, Cervejaria, lda",
+            "Morada": "Rua Engenheiro Vilalobos, 10",
+            "Telefone": "",
+            "N. Contribuinte": 505306263
+        },
+        {
+            "Cliente": 361,
+            "Nome": "MATOS & PARDAL - DESIGN, LDA",
+            "Nome Fiscal": "MATOS & PARDAL - DESIGN, LDA",
+            "Morada": "Rua da Cruz de Pedra, n� 128, 5� centro",
+            "Telefone": "",
+            "N. Contribuinte": 515895474
+        },
+        {
+            "Cliente": 362,
+            "Nome": "Pit�es, servi�o de imagem Lda.",
+            "Nome Fiscal": "Pit�es, servi�o de imagem Lda.",
+            "Morada": "Rua Comandante Lu�s Pinto da Silva",
+            "Telefone": "",
+            "N. Contribuinte": 505767600
+        },
+        {
+            "Cliente": 363,
+            "Nome": "O Prontinho, take away e churrascaria lda",
+            "Nome Fiscal": "O Prontinho, take away e churrascaria lda",
+            "Morada": "Rua Maria da Fonte, 144, loja 1",
+            "Telefone": "",
+            "N. Contribuinte": 506987108
+        },
+        {
+            "Cliente": 364,
+            "Nome": "Burgotemp�ro unipessoal Lda.",
+            "Nome Fiscal": "Burgotemp�ro unipessoal Lda.",
+            "Morada": "Largo Barbosa e Castro",
+            "Telefone": "",
+            "N. Contribuinte": 510360785
+        },
+        {
+            "Cliente": 365,
+            "Nome": "Alcan�arigor, Lda.",
+            "Nome Fiscal": "Alcan�arigor, Lda.",
+            "Morada": "Rua Poente, n� 48 - 1� esq.",
+            "Telefone": "",
+            "N. Contribuinte": 513739580
+        },
+        {
+            "Cliente": 366,
+            "Nome": "Crucial Confidence, Lda",
+            "Nome Fiscal": "Crucial Confidence, Lda",
+            "Morada": "Rua do Bolh�o, 50",
+            "Telefone": "",
+            "N. Contribuinte": 513980733
+        },
+        {
+            "Cliente": 367,
+            "Nome": "Widinovations, Lda.",
+            "Nome Fiscal": "Widinovations, Lda.",
+            "Morada": "Rua da Ind�stria, 119",
+            "Telefone": "",
+            "N. Contribuinte": 506686400
+        },
+        {
+            "Cliente": 368,
+            "Nome": "Fava de Cacau, Unipessoal, Lda",
+            "Nome Fiscal": "Fava de Cacau, Unipessoal, Lda",
+            "Morada": "Rua dos Biscainhos, n� 25 - R/C",
+            "Telefone": "938 493 230",
+            "N. Contribuinte": 513427058
+        },
+        {
+            "Cliente": 369,
+            "Nome": "T�bua e Copos",
+            "Nome Fiscal": "Cenas unipessoal Lda",
+            "Morada": "Rua D. Gon�alo Pereira, 54",
+            "Telefone": "",
+            "N. Contribuinte": 514797568
+        },
+        {
+            "Cliente": 370,
+            "Nome": "M�rio da Costa Martins & Filho, Lda",
+            "Nome Fiscal": "M�rio da Costa Martins & Filho, Lda",
+            "Morada": "Rua Quinta de Santa Maria,150",
+            "Telefone": "",
+            "N. Contribuinte": 500911371
+        },
+        {
+            "Cliente": 371,
+            "Nome": "Peda�osamesa, Lda",
+            "Nome Fiscal": "Peda�osamesa, Lda",
+            "Morada": "Rua Cidade do Porto 139/141",
+            "Telefone": "",
+            "N. Contribuinte": 510806600
+        },
+        {
+            "Cliente": 372,
+            "Nome": "CABM - CART�ES & SOLU��ES, UNIPESSOAL, LDA",
+            "Nome Fiscal": "CABM - CART�ES & SOLU��ES, UNIPESSOAL, LDA",
+            "Morada": "Rua C�nego Rafael �lvares da Costa, loja 48, 1�",
+            "Telefone": "",
+            "N. Contribuinte": 507255542
+        },
+        {
+            "Cliente": 373,
+            "Nome": "Escola de Condu��o Nova de Celeir�s Lda",
+            "Nome Fiscal": "Escola de Condu��o Nova de Celeir�s Lda",
+            "Morada": "Av. do Coved�lo, 7",
+            "Telefone": "",
+            "N. Contribuinte": 507326130
+        },
+        {
+            "Cliente": 374,
+            "Nome": "Bruno Calado - Nutri��o Biomolecular LDA",
+            "Nome Fiscal": "Bruno Calado - Nutri��o Biomolecular LDA",
+            "Morada": "Avenida da Independ�ncia N�44",
+            "Telefone": 253087021,
+            "N. Contribuinte": 513519670
+        },
+        {
+            "Cliente": 375,
+            "Nome": "Nuno Henrique Leite Paredes",
+            "Nome Fiscal": "Nuno Henrique Leite Paredes",
+            "Morada": "Rua do Louredo, 13",
+            "Telefone": "",
+            "N. Contribuinte": 234456833
+        },
+        {
+            "Cliente": 376,
+            "Nome": "Monte da Paz - Quinta S�nior de Vidago, Lda",
+            "Nome Fiscal": "Monte da Paz - Quinta S�nior de Vidago, Lda",
+            "Morada": "Rua Manuel Joaquim Pereira, n� 17",
+            "Telefone": "",
+            "N. Contribuinte": 513463364
+        },
+        {
+            "Cliente": 377,
+            "Nome": "Piscinas Municipais de St.� Ant�nio dos Cavaleiros",
+            "Nome Fiscal": "Piscinas Municipais de St.� Ant�nio dos Cavaleiros",
+            "Morada": "Gesloures, E.M. Gesloures",
+            "Telefone": "",
+            "N. Contribuinte": 502814063
+        },
+        {
+            "Cliente": 378,
+            "Nome": "Agrinho Suites & Spa, Lda",
+            "Nome Fiscal": "Agrinho Suites & Spa, Lda",
+            "Morada": "Rua n. 1 CCI 101",
+            "Telefone": "",
+            "N. Contribuinte": 504219588
+        },
+        {
+            "Cliente": 379,
+            "Nome": "Junta de Freguesia de Gualtar",
+            "Nome Fiscal": "Junta de Freguesia de Gualtar",
+            "Morada": "Rua Escola",
+            "Telefone": "",
+            "N. Contribuinte": 507433874
+        },
+        {
+            "Cliente": 380,
+            "Nome": "Carnes Campicarn, S.A.",
+            "Nome Fiscal": "Carnes Campicarn, S.A.",
+            "Morada": "Av. Eng. Jos� Rolo, 30",
+            "Telefone": "",
+            "N. Contribuinte": 502361735
+        },
+        {
+            "Cliente": 381,
+            "Nome": "Eagle Perspective, Unipessoal Lda",
+            "Nome Fiscal": "Eagle Perspective, Unipessoal Lda",
+            "Morada": "Rua de Santa Margarida, n 33",
+            "Telefone": "",
+            "N. Contribuinte": 515236985
+        },
+        {
+            "Cliente": 382,
+            "Nome": "Studio You",
+            "Nome Fiscal": "Marta Daniela Barbosa Gon�alves Borges",
+            "Morada": "Rua Dom Frei Caetano Brand�o n� 208",
+            "Telefone": "",
+            "N. Contribuinte": 221088172
+        },
+        {
+            "Cliente": 383,
+            "Nome": "Empresa Hoteleira do Ger�s",
+            "Nome Fiscal": "Empresa Hoteleira do Ger�s",
+            "Morada": "Lugar do Gerez - Vilar da Veiga",
+            "Telefone": "",
+            "N. Contribuinte": 500096554
+        },
+        {
+            "Cliente": 384,
+            "Nome": "URGE - Servi�os Lda",
+            "Nome Fiscal": "URGE - Servi�os Lda",
+            "Morada": "Parque Industrial de Celeir�s  - 1� Fase Pavilh�o",
+            "Telefone": "253 674 002",
+            "N. Contribuinte": 503272949
+        },
+        {
+            "Cliente": 385,
+            "Nome": "Taxus",
+            "Nome Fiscal": "Amorim & Oliveira - Catering, Lda",
+            "Morada": "Rua C�nego Rafael Alvares Costa, n� 124",
+            "Telefone": "",
+            "N. Contribuinte": 504751590
+        },
+        {
+            "Cliente": 386,
+            "Nome": "Cefad, Forma��o Profissional, lda.",
+            "Nome Fiscal": "Cefad, Forma��o Profissional, lda.",
+            "Morada": "Cefad Braga - Rua do Caires, 328, Bloco B, Loja 32",
+            "Telefone": "",
+            "N. Contribuinte": 504051245
+        },
+        {
+            "Cliente": 387,
+            "Nome": "Linha de Energia, Lda",
+            "Nome Fiscal": "Linha de Energia, Lda",
+            "Morada": "Rua de Adreg�es, Lote 38",
+            "Telefone": "",
+            "N. Contribuinte": 513347437
+        },
+        {
+            "Cliente": 388,
+            "Nome": "Farm�cia de Gualtar",
+            "Nome Fiscal": "Farm�cia Amado Braga Unipessoal Lda",
+            "Morada": "Rua da Lameira, n�74",
+            "Telefone": "",
+            "N. Contribuinte": 506489760
+        },
+        {
+            "Cliente": 389,
+            "Nome": "Longo P�ndulo, lda",
+            "Nome Fiscal": "Longo P�ndulo, lda",
+            "Morada": "Praceta dos Templ�rios, lote 55, n�10",
+            "Telefone": "",
+            "N. Contribuinte": 507857160
+        },
+        {
+            "Cliente": 390,
+            "Nome": "Livraria Oswaldo S�",
+            "Nome Fiscal": "Livraria Oswaldo S�",
+            "Morada": "Rua 25 de Abril, 435",
+            "Telefone": "",
+            "N. Contribuinte": 131379003
+        },
+        {
+            "Cliente": 391,
+            "Nome": "Jo�o Gomes da Silva",
+            "Nome Fiscal": "Jo�o Gomes da Silva",
+            "Morada": "Travessa de Ossada, 1",
+            "Telefone": "",
+            "N. Contribuinte": 137598599
+        },
+        {
+            "Cliente": 392,
+            "Nome": "Firmago - Fundi��o de alum�nio, S. A.",
+            "Nome Fiscal": "Firmago - Fundi��o de alum�nio, S. A.",
+            "Morada": "Rua Sto. Amaro, 40",
+            "Telefone": "",
+            "N. Contribuinte": 503037591
+        },
+        {
+            "Cliente": 393,
+            "Nome": "Casa do Professor",
+            "Nome Fiscal": "Casa do Professor",
+            "Morada": "AVENIDA CENTRAL, 106/110",
+            "Telefone": "",
+            "N. Contribuinte": 500862192
+        },
+        {
+            "Cliente": 394,
+            "Nome": "F�brica Asa",
+            "Nome Fiscal": "Incredible Mountain",
+            "Morada": "Fabrica ASA, J1.16",
+            "Telefone": "",
+            "N. Contribuinte": 515149187
+        },
+        {
+            "Cliente": 395,
+            "Nome": "Junta de Freguesia de Celeir�s, Aveleda e Vimieiro",
+            "Nome Fiscal": "Junta de Freguesia de Celeir�s, Aveleda e Vimieiro",
+            "Morada": "Avenida Covedelo 57",
+            "Telefone": "",
+            "N. Contribuinte": 510835953
+        },
+        {
+            "Cliente": 396,
+            "Nome": "IHEALTH, Lda",
+            "Nome Fiscal": "IHEALTH, Lda",
+            "Morada": "Rua do Fujacal, n. 20, 1.� Esq. Frente",
+            "Telefone": "",
+            "N. Contribuinte": 515373311
+        },
+        {
+            "Cliente": 397,
+            "Nome": "Sienite Transformadora de Borracha e Plasticos Lda",
+            "Nome Fiscal": "Sienite Transformadora de Borracha e Plasticos Lda",
+            "Morada": "Parque Industrial de Celeir�s, 46/48",
+            "Telefone": "",
+            "N. Contribuinte": 500681104
+        },
+        {
+            "Cliente": 398,
+            "Nome": "Classcasa",
+            "Nome Fiscal": "Design10, Unip. Lda",
+            "Morada": "Av. Cidade do Porto, 48",
+            "Telefone": "",
+            "N. Contribuinte": 513478710
+        },
+        {
+            "Cliente": 399,
+            "Nome": "Luzacril",
+            "Nome Fiscal": "Luzacril",
+            "Morada": "Parque Industrial de Avidos - Lote N� 12 / 13",
+            "Telefone": "",
+            "N. Contribuinte": 504154184
+        },
+        {
+            "Cliente": 400,
+            "Nome": "Batalha e Nobre Lda.",
+            "Nome Fiscal": "Batalha e Nobre Lda.",
+            "Morada": "Rua Vasco da Gama, 12",
+            "Telefone": "",
+            "N. Contribuinte": 510087388
+        },
+        {
+            "Cliente": 401,
+            "Nome": "Mapher Industrial, unipessoal Lda.",
+            "Nome Fiscal": "Mapher Industrial, unipessoal Lda.",
+            "Morada": "Rua Leandro Braga, 19",
+            "Telefone": "",
+            "N. Contribuinte": 515481386
+        },
+        {
+            "Cliente": 402,
+            "Nome": "Sisfix inform�tica, Lda",
+            "Nome Fiscal": "Sisfix inform�tica, Lda",
+            "Morada": "Rua Ant�nio de Mariz, 54",
+            "Telefone": "",
+            "N. Contribuinte": 507243994
+        },
+        {
+            "Cliente": 403,
+            "Nome": "Pecado Real",
+            "Nome Fiscal": "MOTIVATION2SPEND UNIPESSOAL LDA",
+            "Morada": "AVENIDA FREI BARTOLOMEU DOS M�RTIRES 87",
+            "Telefone": "",
+            "N. Contribuinte": 514078871
+        },
+        {
+            "Cliente": 404,
+            "Nome": "Paulo S�rgio Martins Pereira",
+            "Nome Fiscal": "Paulo S�rgio Martins Pereira",
+            "Morada": "Rua C�ndido Cunha n� 238",
+            "Telefone": "",
+            "N. Contribuinte": 211656771
+        },
+        {
+            "Cliente": 405,
+            "Nome": "Stonemix S.A.",
+            "Nome Fiscal": "Stonemix S.A.",
+            "Morada": "Rua da Barrossa, 1930",
+            "Telefone": "",
+            "N. Contribuinte": 510453449
+        },
+        {
+            "Cliente": 406,
+            "Nome": "Grupo Desportivo de Porto de Ave",
+            "Nome Fiscal": "Grupo Desportivo de Porto de Ave",
+            "Morada": "Rua do Porto D'Ave",
+            "Telefone": "",
+            "N. Contribuinte": 500830738
+        },
+        {
+            "Cliente": 407,
+            "Nome": "Auto Stand Correia, L.da",
+            "Nome Fiscal": "Auto Stand Correia, L.da",
+            "Morada": "Avenida Jo�o XXI, n� 519",
+            "Telefone": "",
+            "N. Contribuinte": 501238417
+        },
+        {
+            "Cliente": 408,
+            "Nome": "Teresa Leite Friseursalon",
+            "Nome Fiscal": "Teresa Leite",
+            "Morada": "Bornheide 10C",
+            "Telefone": "",
+            "N. Contribuinte": "DE294634506"
+        },
+        {
+            "Cliente": 409,
+            "Nome": "Sporting Club Cabreiros",
+            "Nome Fiscal": "Sporting Club Cabreiros",
+            "Morada": "Cabreiros",
+            "Telefone": "",
+            "N. Contribuinte": 501790551
+        },
+        {
+            "Cliente": 410,
+            "Nome": "Sara Lina Duarte Gomes Ferreira",
+            "Nome Fiscal": "Sara Lina Duarte Gomes Ferreira",
+            "Morada": "Rua Professor Machado Vilela, n� 110 sala 5 piso 5",
+            "Telefone": "",
+            "N. Contribuinte": 192898116
+        },
+        {
+            "Cliente": 411,
+            "Nome": "Francisco Jos� Fernandes P�lvora",
+            "Nome Fiscal": "Francisco Jos� Fernandes P�lvora",
+            "Morada": "Praceta Beato In�cio de Azevedo, 43, 3� esq.",
+            "Telefone": "",
+            "N. Contribuinte": 193238195
+        },
+        {
+            "Cliente": 412,
+            "Nome": "Edifacoop-Coop. de Edu. do Individuo, For. e Apoio",
+            "Nome Fiscal": "Edifacoop-Coop. de Edu. do Individuo, For. e Apoio",
+            "Morada": "Rua do Barrio, N� 40/50",
+            "Telefone": "",
+            "N. Contribuinte": 502918705
+        },
+        {
+            "Cliente": 413,
+            "Nome": "Marques e Marques Healthcare, Lda",
+            "Nome Fiscal": "Marques e Marques Healthcare, Lda",
+            "Morada": "Rua dos Bombeiros 50,52",
+            "Telefone": "",
+            "N. Contribuinte": 513341080
+        },
+        {
+            "Cliente": 414,
+            "Nome": "Ronal",
+            "Nome Fiscal": "Rodrigues & Nascimento, Lda",
+            "Morada": "Parque Industrial de Celeir�s",
+            "Telefone": "",
+            "N. Contribuinte": 500853940
+        },
+        {
+            "Cliente": 415,
+            "Nome": "Atepeli - Ateliers de Ponte de Lima, S. A.",
+            "Nome Fiscal": "Atepeli - Ateliers de Ponte de Lima, S. A.",
+            "Morada": "Rua das Valinhas, n� 438",
+            "Telefone": "",
+            "N. Contribuinte": 509613977
+        },
+        {
+            "Cliente": 416,
+            "Nome": "Tek4management, S.A.",
+            "Nome Fiscal": "Tek4management, S.A.",
+            "Morada": "Rua da Casaca n�11, Pavilh�o 31",
+            "Telefone": "",
+            "N. Contribuinte": 516068121
+        },
+        {
+            "Cliente": 417,
+            "Nome": "Recados do Mundo- Filmes, Lda",
+            "Nome Fiscal": "Recados do Mundo- Filmes, Lda",
+            "Morada": "Rua C�ndido Figueiredo, N� 67 A",
+            "Telefone": "",
+            "N. Contribuinte": 515663646
+        },
+        {
+            "Cliente": 418,
+            "Nome": "Funny Arabesque, Lda",
+            "Nome Fiscal": "Funny Arabesque, Lda",
+            "Morada": "Rua Terminal de Mercadorias, Lote 4",
+            "Telefone": 912349138,
+            "N. Contribuinte": 514659645
+        },
+        {
+            "Cliente": 419,
+            "Nome": "C. P. Carnes da Meadela, Lda",
+            "Nome Fiscal": "C. P. Carnes da Meadela, Lda",
+            "Morada": "Rua 13 de Maio, n�. 14",
+            "Telefone": "253 339 455",
+            "N. Contribuinte": 507970632
+        },
+        {
+            "Cliente": 420,
+            "Nome": "Eduarda Isabel Neves Ribeiro",
+            "Nome Fiscal": "Eduarda Isabel Neves Ribeiro",
+            "Morada": "Avenida Central, n�. 129, Devesinha",
+            "Telefone": "",
+            "N. Contribuinte": 231243243
+        },
+        {
+            "Cliente": 421,
+            "Nome": "Hotel Onix, Lda",
+            "Nome Fiscal": "Hotel Onix, Lda",
+            "Morada": "Hotel Onix, EN16",
+            "Telefone": 932546618,
+            "N. Contribuinte": 500353018
+        },
+        {
+            "Cliente": 422,
+            "Nome": "Glamour Fulgurante, Lda",
+            "Nome Fiscal": "Glamour Fulgurante, Lda",
+            "Morada": "Pra�a Camilo Castelo Branco 27, loja 26",
+            "Telefone": 934913895,
+            "N. Contribuinte": 515941565
+        },
+        {
+            "Cliente": 423,
+            "Nome": "Petroliquido Combustiveis, Lda",
+            "Nome Fiscal": "Petroliquido Combustiveis, Lda",
+            "Morada": "Avenida Nossa Senhora da Concei��o, n�128",
+            "Telefone": "",
+            "N. Contribuinte": 504062409
+        },
+        {
+            "Cliente": 424,
+            "Nome": "Standarmoldes, Lda",
+            "Nome Fiscal": "Standarmoldes, Lda",
+            "Morada": "Rua 5 de Outubro, Pav. 4",
+            "Telefone": "",
+            "N. Contribuinte": 502799528
+        },
+        {
+            "Cliente": 425,
+            "Nome": "Fernando Rodrigues Ferreira, Unip., Lda",
+            "Nome Fiscal": "Fernando Rodrigues Ferreira, Unip., Lda",
+            "Morada": "Av. S�o Louren�o, n�. 54",
+            "Telefone": 912694698,
+            "N. Contribuinte": 509570720
+        },
+        {
+            "Cliente": 426,
+            "Nome": "El�stico Design",
+            "Nome Fiscal": "El�stico Design",
+            "Morada": "Rua da Nat�ria, n� 103, 2�",
+            "Telefone": "",
+            "N. Contribuinte": 224708350
+        },
+        {
+            "Cliente": 427,
+            "Nome": "J.M.S. Organaria, Unipessoal Lda",
+            "Nome Fiscal": "J.M.S. Organaria, Unipessoal Lda",
+            "Morada": "Rua do Rosal, N� 61",
+            "Telefone": "",
+            "N. Contribuinte": 513843787
+        },
+        {
+            "Cliente": 428,
+            "Nome": "Leirilis, SA",
+            "Nome Fiscal": "Leirilis, SA",
+            "Morada": "Rua Paulo VI, 2800",
+            "Telefone": 2448500589,
+            "N. Contribuinte": 501643559
+        },
+        {
+            "Cliente": 429,
+            "Nome": "Cosmikadvance Lda",
+            "Nome Fiscal": "Cosmikadvance Lda",
+            "Morada": "Avenida Manuel Dias Machado N 203",
+            "Telefone": 919651829,
+            "N. Contribuinte": 510903436
+        },
+        {
+            "Cliente": 430,
+            "Nome": "Green Skill, Unip. Lda",
+            "Nome Fiscal": "Green Skill, Unip. Lda",
+            "Morada": "Rua de Fundevila, 393",
+            "Telefone": 938754205,
+            "N. Contribuinte": 509792243
+        },
+        {
+            "Cliente": 431,
+            "Nome": "Tempero Aveludado, Unipessoal, Lda",
+            "Nome Fiscal": "Tempero Aveludado, Unipessoal, Lda",
+            "Morada": "Rua da Pousada, n� 1389",
+            "Telefone": "",
+            "N. Contribuinte": 514398809
+        },
+        {
+            "Cliente": 432,
+            "Nome": "Domingos Jorge Barbosa - Combust�veis, Lda",
+            "Nome Fiscal": "Domingos Jorge Barbosa - Combust�veis, Lda",
+            "Morada": "Avenida da Estrada, N� 13-15",
+            "Telefone": 915348898,
+            "N. Contribuinte": 513250506
+        },
+        {
+            "Cliente": 433,
+            "Nome": "Jorge Manuel de Castro Franco, Unip, Lda",
+            "Nome Fiscal": "Jorge Manuel de Castro Franco, Unip, Lda",
+            "Morada": "Av. da Liberdade, n�. 312 R/C",
+            "Telefone": 917279121,
+            "N. Contribuinte": 513773339
+        },
+        {
+            "Cliente": 434,
+            "Nome": "Obra Social Sagrado Cora��o de Maria-Equipamento d",
+            "Nome Fiscal": "Obra Social Sagrado Cora��o de Maria-Equipamento d",
+            "Morada": "Rua Quinta da Armada, 164",
+            "Telefone": "253 252 922",
+            "N. Contribuinte": 500876835
+        },
+        {
+            "Cliente": 435,
+            "Nome": "1954 S.A. - Engenharia e Gest�o Projetos",
+            "Nome Fiscal": "1954 S.A. - Engenharia e Gest�o Projetos",
+            "Morada": "R. da Quinta da Armada 38",
+            "Telefone": "+351 968 601 557",
+            "N. Contribuinte": 510481825
+        },
+        {
+            "Cliente": 436,
+            "Nome": "Marques Neg�cios-Imob.e Consultoria de Gest�o, Lda",
+            "Nome Fiscal": "Marques Neg�cios-Imob.e Consultoria de Gest�o, Lda",
+            "Morada": "Edif�cio Balan�as Marques",
+            "Telefone": "",
+            "N. Contribuinte": 506577791
+        },
+        {
+            "Cliente": 437,
+            "Nome": "Maria Clara Gon�alves Alves",
+            "Nome Fiscal": "Maria Clara Gon�alves Alves",
+            "Morada": "Largo do Penedo n�.4",
+            "Telefone": "",
+            "N. Contribuinte": 226716813
+        },
+        {
+            "Cliente": 438,
+            "Nome": "Gomes & Novais, Internacional, Lda.",
+            "Nome Fiscal": "Gomes & Novais, Internacional, Lda.",
+            "Morada": "Rua da Tomada, N� 13",
+            "Telefone": "",
+            "N. Contribuinte": "508 710 006"
+        },
+        {
+            "Cliente": 443,
+            "Nome": "Vanilla Memories, Unip. Lda",
+            "Nome Fiscal": "Vanilla Memories, Unip. Lda",
+            "Morada": "Rua do Sol ao Rato, n�. 9",
+            "Telefone": "",
+            "N. Contribuinte": 515781886
+        },
+        {
+            "Cliente": 444,
+            "Nome": "�ndice de Frescura, Lda",
+            "Nome Fiscal": "�ndice de Frescura, Lda",
+            "Morada": "Rua Padre Ezequiel",
+            "Telefone": "",
+            "N. Contribuinte": 510069282
+        },
+        {
+            "Cliente": 445,
+            "Nome": "Grenke Renting, S. A.",
+            "Nome Fiscal": "Grenke Renting, S. A.",
+            "Morada": "Avenida D. Jo�o II, 45 - 4A",
+            "Telefone": "",
+            "N. Contribuinte": 508259509
+        },
+        {
+            "Cliente": 446,
+            "Nome": "Gomes & Novais, Internacional, Lda",
+            "Nome Fiscal": "Gomes & Novais, Internacional Lda",
+            "Morada": "Rua da Tomada, N� 13",
+            "Telefone": "",
+            "N. Contribuinte": 508710006
+        },
+        {
+            "Cliente": 447,
+            "Nome": "TEK4LIFE MED, LDA",
+            "Nome Fiscal": "TEK4LIFE MED, LDA",
+            "Morada": "Rua do Casaca, n� 11, Pavilh�o 31",
+            "Telefone": "+351 913 494 539",
+            "N. Contribuinte": 516110616
+        },
+        {
+            "Cliente": 448,
+            "Nome": "Munic�pio de Cabeceiras de Basto",
+            "Nome Fiscal": "Munic�pio de Cabeceiras de Basto",
+            "Morada": "Pra�a da Rep�blica, 467",
+            "Telefone": "",
+            "N. Contribuinte": 505330334
+        },
+        {
+            "Cliente": 449,
+            "Nome": "Polibarral, Unipessoal, Lda",
+            "Nome Fiscal": "Polibarral, Unipessoal, Lda",
+            "Morada": "Travessa Ant�nio Ferreira Rito, 20",
+            "Telefone": "",
+            "N. Contribuinte": 508773504
+        },
+        {
+            "Cliente": 450,
+            "Nome": "Publibranco, produ��o de merchandising",
+            "Nome Fiscal": "Publibranco, produ��o de merchandising",
+            "Morada": "R. Flores Silvestres, N� 3A",
+            "Telefone": "21 492 85 35",
+            "N. Contribuinte": 503474665
+        },
+        {
+            "Cliente": 451,
+            "Nome": "Tecminho",
+            "Nome Fiscal": "Associa��o Universidade - Empresa Des. - Tecminho",
+            "Morada": "Campus de Azur�m da Universidade do Minho",
+            "Telefone": "918 841 363",
+            "N. Contribuinte": 502585757
+        },
+        {
+            "Cliente": 452,
+            "Nome": "Priscila Daniela Cerqueira Gomes",
+            "Nome Fiscal": "Priscila Daniela Cerqueira Gomes",
+            "Morada": "Rua Engenheiro Afonso Jose Da Fonseca 5",
+            "Telefone": "",
+            "N. Contribuinte": 241969158
+        },
+        {
+            "Cliente": 453,
+            "Nome": "Steelcavado",
+            "Nome Fiscal": "Steelcavado- Fabrico Mob. Inox Ind e Hotelaria,Lda",
+            "Morada": "Rua Marvila de Baixo, 3 D",
+            "Telefone": 253339161,
+            "N. Contribuinte": 508704979
+        },
+        {
+            "Cliente": 454,
+            "Nome": "Motoveiga, Lda",
+            "Nome Fiscal": "Motoveiga, Lda",
+            "Morada": "Rua Pinheiro do Bicho, 29",
+            "Telefone": "",
+            "N. Contribuinte": 503955043
+        },
+        {
+            "Cliente": 455,
+            "Nome": "HC Cabeleireiros, Lda",
+            "Nome Fiscal": "HC Cabeleireiros, Lda",
+            "Morada": "Rua Ant�nio Augusto de Aguiar, 6",
+            "Telefone": "",
+            "N. Contribuinte": 510472734
+        },
+        {
+            "Cliente": 456,
+            "Nome": "Empis, Inform�tica e Servi�os",
+            "Nome Fiscal": "Empis, Inform�tica e Servi�os",
+            "Morada": "Rua do Taxa, N� 13",
+            "Telefone": 253611611,
+            "N. Contribuinte": 502163518
+        },
+        {
+            "Cliente": 457,
+            "Nome": "Empiphone - Com�rcio de Telecomunica��es",
+            "Nome Fiscal": "Empiphone - Com�rcio de Telecomunica��es",
+            "Morada": "Rua Parque Bou�a das Mouras, n� 4 a 8",
+            "Telefone": "4705-235 Braga",
+            "N. Contribuinte": 507204565
+        },
+        {
+            "Cliente": 458,
+            "Nome": "Globaltendas, Lda",
+            "Nome Fiscal": "Globaltendas, Lda",
+            "Morada": "Av. Eng. Jos� Rolo P1B",
+            "Telefone": "253 233 020",
+            "N. Contribuinte": 508189560
+        },
+        {
+            "Cliente": 459,
+            "Nome": "Opticalia Celeir�s",
+            "Nome Fiscal": "AZUL PIONEIRO, UNIP. LDA",
+            "Morada": "Av. S. Louren�o, n� 99 R/C Esq",
+            "Telefone": "",
+            "N. Contribuinte": 514421347
+        },
+        {
+            "Cliente": 460,
+            "Nome": "Nuno Jorge Melo de Oliveira",
+            "Nome Fiscal": "Nuno Jorge Melo de Oliveira",
+            "Morada": "Rua do Com�rcio n�.6",
+            "Telefone": "",
+            "N. Contribuinte": 213591294
+        },
+        {
+            "Cliente": 461,
+            "Nome": "Gold Energy - Comercializa��o de Energia, S. A.",
+            "Nome Fiscal": "Gold Energy - Comercializa��o de Energia, S. A.",
+            "Morada": "Quinta do Almor, Fraga de Almotelia, Loja 4 R/c B",
+            "Telefone": "",
+            "N. Contribuinte": 507857542
+        },
+        {
+            "Cliente": 465,
+            "Nome": "Vesguimi, Confec��es, Lda",
+            "Nome Fiscal": "Vesguimi, Confec��es, Lda",
+            "Morada": "Rua Cesil de Baixo, n�584",
+            "Telefone": 253417545,
+            "N. Contribuinte": 504583182
+        },
+        {
+            "Cliente": 466,
+            "Nome": "Rt&A Gest�o & Consultoria, Lda",
+            "Nome Fiscal": "Rt&A Gest�o & Consultoria, Lda",
+            "Morada": "Rua Zona Industrial, N�.943",
+            "Telefone": "",
+            "N. Contribuinte": 514751657
+        },
+        {
+            "Cliente": 467,
+            "Nome": "MMCI Multim�dia, SA",
+            "Nome Fiscal": "MMCI Multim�dia, SA",
+            "Morada": "Rua Francisco Augusto Alvim",
+            "Telefone": "351 931 049 275",
+            "N. Contribuinte": 508637864
+        },
+        {
+            "Cliente": 468,
+            "Nome": "Leiloelo, LDA",
+            "Nome Fiscal": "Leiloelo, LDA",
+            "Morada": "Rua Miguel Torga, n�62",
+            "Telefone": "",
+            "N. Contribuinte": 515968099
+        },
+        {
+            "Cliente": 469,
+            "Nome": "Metbuilding Solutions, Unipessoal, Lda.",
+            "Nome Fiscal": "Metbuilding Solutions, Unipessoal, Lda.",
+            "Morada": "Avenida Padre Manuel Joaquim Rebelo, 20, EN14,",
+            "Telefone": 965480815,
+            "N. Contribuinte": 515683914
+        },
+        {
+            "Cliente": 470,
+            "Nome": "Francisco & Lu�s Rosa - Publicidade, Lda.",
+            "Nome Fiscal": "Francisco & Lu�s Rosa - Publicidade, Lda.",
+            "Morada": "Rua Vasco da Gama, n. 52 a 56",
+            "Telefone": "233 423 586",
+            "N. Contribuinte": 506471926
+        },
+        {
+            "Cliente": 471,
+            "Nome": "Vaguinfus",
+            "Nome Fiscal": "Vaguinfus",
+            "Morada": "Rua da Igreja, n�. 5",
+            "Telefone": "",
+            "N. Contribuinte": 508403391
+        },
+        {
+            "Cliente": 472,
+            "Nome": "T� Auto",
+            "Nome Fiscal": "Ant�nio Macedo Pinheiro, Unipessoal, Lda",
+            "Morada": "Rua da Liberdade n� 59",
+            "Telefone": "253 957 117",
+            "N. Contribuinte": 515561410
+        },
+        {
+            "Cliente": 473,
+            "Nome": "Madeira Rosa I D Unip. Lda",
+            "Nome Fiscal": "Madeira Rosa I D Unip. Lda",
+            "Morada": "Avenida das Lagoas, 4",
+            "Telefone": 914164050,
+            "N. Contribuinte": 515604780
+        },
+        {
+            "Cliente": 474,
+            "Nome": "Escolas de Condu��o e Forma��o Bom Jesus, Lda",
+            "Nome Fiscal": "Escolas de Condu��o e Forma��o Bom Jesus, Lda",
+            "Morada": "Rua Jos� Lopes da Silva Granja, 50",
+            "Telefone": 253686310,
+            "N. Contribuinte": 503412872
+        },
+        {
+            "Cliente": 475,
+            "Nome": "Slicedays Hotelaria, Lda",
+            "Nome Fiscal": "Slicedays Hotelaria, Lda",
+            "Morada": "Avenida D. Jo�o III 29",
+            "Telefone": "962 049 098",
+            "N. Contribuinte": 514690640
+        },
+        {
+            "Cliente": 476,
+            "Nome": "Paulo Armindo Gomes Ferreira Casais",
+            "Nome Fiscal": "Paulo Armindo Gomes Ferreira Casais",
+            "Morada": "Rua Bernardo Sequeira, 1� sala P",
+            "Telefone": "",
+            "N. Contribuinte": 209656735
+        },
+        {
+            "Cliente": 477,
+            "Nome": "Ingrediente Astuto, Lda",
+            "Nome Fiscal": "Ingrediente Astuto, Lda",
+            "Morada": "Rua Cidade do Porto, n�. 139/141",
+            "Telefone": "",
+            "N. Contribuinte": 515977039
+        },
+        {
+            "Cliente": 478,
+            "Nome": "Tirion - Portugal Works Management, Lda",
+            "Nome Fiscal": "Tirion - Portugal Works Management, Lda",
+            "Morada": "Rua S� da Bandeira, 819, 1.� Esq., Sala 1",
+            "Telefone": "",
+            "N. Contribuinte": 505335930
+        },
+        {
+            "Cliente": 479,
+            "Nome": "Garagem Gast�o de Irm�os Oliveira Lda",
+            "Nome Fiscal": "Garagem Gast�o de Irm�os Oliveira, Lda",
+            "Morada": "Rua do Mazag�o N� 59",
+            "Telefone": "",
+            "N. Contribuinte": 502840226
+        },
+        {
+            "Cliente": 480,
+            "Nome": "PECULIAR IMAGINATION, LDA",
+            "Nome Fiscal": "PECULIAR IMAGINATION, LDA",
+            "Morada": "Rua Manuel Ferreira Ara�jo, 13/17",
+            "Telefone": "",
+            "N. Contribuinte": 515990612
+        },
+        {
+            "Cliente": 481,
+            "Nome": "CPNP Carnes, Lda",
+            "Nome Fiscal": "CPNP Carnes, Lda",
+            "Morada": "Rua Combatentes de Ultramar, 1075",
+            "Telefone": "",
+            "N. Contribuinte": 510354432
+        },
+        {
+            "Cliente": 482,
+            "Nome": "Securitas - Servi�os e Tecnologia de Seguran�a, SA",
+            "Nome Fiscal": "Securitas - Servi�os e Tecnologia de Seguran�a, SA",
+            "Morada": "Rua Rodrigues Lobo, N� 2",
+            "Telefone": "",
+            "N. Contribuinte": 500243719
+        },
+        {
+            "Cliente": 483,
+            "Nome": "Flamingo Moon, Lda",
+            "Nome Fiscal": "Flamingo Moon, Lda",
+            "Morada": "Rua Castilho 39, 10C",
+            "Telefone": 211349157,
+            "N. Contribuinte": 513874640
+        },
+        {
+            "Cliente": 484,
+            "Nome": "Conduril Eng.� S.A.",
+            "Nome Fiscal": "Conduril Eng.� S.A.",
+            "Morada": "Avenida Eng. Duarte Pacheco, 1835",
+            "Telefone": "229 773 920",
+            "N. Contribuinte": 500070210
+        },
+        {
+            "Cliente": 485,
+            "Nome": "Ver�nico Publicidade, Unipessoal, Lda",
+            "Nome Fiscal": "Ver�nico Publicidade, Unipessoal, Lda",
+            "Morada": "Rua Ant�nio Menici Malheiro, n� 3",
+            "Telefone": "936 691 244",
+            "N. Contribuinte": 516278614
+        },
+        {
+            "Cliente": 1000,
+            "Nome": "Cliente",
+            "Nome Fiscal": "Cliente",
+            "Morada": "Morada",
+            "Telefone": "",
+            "N. Contribuinte": 999999990
+        },
+        {
+            "Cliente": 147,
+            "Nome": "Impress�es na hora",
+            "Nome Fiscal": "Impress�es na hora",
+            "Morada": "Avenida de Palmeira, 189",
+            "Telefone": "",
+            "N. Contribuinte": 510279180
+        },
+        {
+            "Cliente": 148,
+            "Nome": "�ptica Franco",
+            "Nome Fiscal": "�ptica Franco",
+            "Morada": "Avenida Jo�o XXI 835",
+            "Telefone": "",
+            "N. Contribuinte": 513508015
+        },
+        {
+            "Cliente": 193,
+            "Nome": "WTSANI-Art. Sanit�rios e Bricolage, unipessoal Lda",
+            "Nome Fiscal": "WTSANI-Art. Sanit�rios e Bricolage, unipessoal Lda",
+            "Morada": "Rua Nova do Couteiro, n. 234",
+            "Telefone": "",
+            "N. Contribuinte": 514416750
+        },
+        {
+            "Cliente": 209,
+            "Nome": "Ulisses Lopes",
+            "Nome Fiscal": "Ulisses Lopes",
+            "Morada": "Caminho de Baixo, 70",
+            "Telefone": "",
+            "N. Contribuinte": 212854909
+        },
+        {
+            "Cliente": 211,
+            "Nome": "Eurogamer",
+            "Nome Fiscal": "Journey tendency unipessoal, Lda.",
+            "Morada": "Praceta do Castelo , 6 C",
+            "Telefone": "",
+            "N. Contribuinte": 510412467
+        },
+        {
+            "Cliente": 221,
+            "Nome": "Cheila Marisa Martins Marques",
+            "Nome Fiscal": "Cheila Marisa Martins Marques",
+            "Morada": "Avenida Central, n. 19",
+            "Telefone": "",
+            "N. Contribuinte": 247341975
+        },
+        {
+            "Cliente": 225,
+            "Nome": "Teresa Cardoso Bastos, design, Lda",
+            "Nome Fiscal": "Teresa Cardoso Bastos, design, Lda",
+            "Morada": "Av frei Miguel contreiras, 28, c/v dir",
+            "Telefone": "",
+            "N. Contribuinte": 509886302
+        },
+        {
+            "Cliente": 228,
+            "Nome": "Revoltilho Sociedade Imobili�ria Lda",
+            "Nome Fiscal": "Revoltilho Sociedade Imobili�ria Lda",
+            "Morada": "Largo de S�o Jo�o do Souto, 14/15",
+            "Telefone": "",
+            "N. Contribuinte": 503544892
+        },
+        {
+            "Cliente": 229,
+            "Nome": "Ass. de reformados, pens. e idosos de Vale d'Este",
+            "Nome Fiscal": "Ass. de reformados, pens. e idosos de Vale d'Este",
+            "Morada": "Rua da Cruz, 17",
+            "Telefone": "",
+            "N. Contribuinte": 503070351
+        },
+        {
+            "Cliente": 406,
+            "Nome": "BRCAR, oficina auto Lda",
+            "Nome Fiscal": "BRCAR, ofiina auto Lda",
+            "Morada": "Rua Conselheiro Lobato, 521",
+            "Telefone": "",
+            "N. Contribuinte": 515295353
+        },
+        {
+            "Cliente": 411,
+            "Nome": "Churrasqueira Sal e Sabor, Lda",
+            "Nome Fiscal": "Churrasqueira Sal e Sabor, Lda",
+            "Morada": "Rua Cidade do Porto, n�. 67",
+            "Telefone": "",
+            "N. Contribuinte": 510129870
+        },
+        {
+            "Cliente": 415,
+            "Nome": "Digidelta Internacional - Import Export, S. A.",
+            "Nome Fiscal": "Digidelta Internacional - Import Export, S. A.",
+            "Morada": "Zona Industrial de Torres Novas, Lote 1",
+            "Telefone": "",
+            "N. Contribuinte": 503249416
+        },
+        {
+            "Cliente": 426,
+            "Nome": "Between Percentages - Unipessoal, Lda",
+            "Nome Fiscal": "Between Percentages - Unipessoal, Lda",
+            "Morada": "Rua Nova da Esta��o, n� 176",
+            "Telefone": 963606853,
+            "N. Contribuinte": 514415169
+        },
+        {
+            "Cliente": 462,
+            "Nome": "Eleven Systems, Lda.",
+            "Nome Fiscal": "Eleven Systems, Lda.",
+            "Morada": "Praceta das Agras N�10",
+            "Telefone": "",
+            "N. Contribuinte": 509792537
+        },
+        {
+            "Cliente": 463,
+            "Nome": "Alexandra S�, Unip.",
+            "Nome Fiscal": "Alexandra S�, Unip.",
+            "Morada": "Edif�cio Stock Car",
+            "Telefone": "",
+            "N. Contribuinte": 513170979
+        },
+        {
+            "Cliente": 464,
+            "Nome": "FOREO AB",
+            "Nome Fiscal": "FOREO AB",
+            "Morada": "Karlavagen 41",
+            "Telefone": "",
+            "N. Contribuinte": "SE556922131901"
+        },
+        {
+            "Cliente": "VD",
+            "Nome": "Cliente Indiferenciado",
+            "Nome Fiscal": "Cliente Indiferenciado",
+            "Morada": "",
+            "Telefone": "",
+            "N. Contribuinte": 999999990
+        }
+    ]
+}

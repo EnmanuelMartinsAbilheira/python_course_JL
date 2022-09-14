@@ -1,0 +1,25 @@
+[
+    {
+        "Numero_Telefone": 123456789,
+        "Nome": "enmanuel jose",
+        "Morada": "Barcelos abade de neiva",
+        "Ligacoes": [
+            937507333,
+            2323232323
+        ]
+    },
+    {
+        "Numero_Telefone": 937507333,
+        "Nome": "Enmanuel Jose",
+        "Morada": "Barcelos Abade de Neiva",
+        "Ligacoes": []
+    },
+    {
+        "Numero_Telefone": 2323232323,
+        "Nome": "joao",
+        "Morada": "lisboa ",
+        "Ligacoes": [
+            900800700
+        ]
+    }
+]

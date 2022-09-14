@@ -1,0 +1,74 @@
+{
+    "Employees": [
+        {
+            "emailAddress": "krish.lee@learningcontainer.com", 
+            "employeeCode": "E1", 
+            "firstName": "Krish", 
+            "jobTitle": "Developer", 
+            "lastName": "Lee", 
+            "phoneNumber": "123456", 
+            "region": "CA", 
+            "userId": "krish"
+        }, 
+        {
+            "emailAddress": "devid.rome@learningcontainer.com", 
+            "employeeCode": "E2", 
+            "firstName": "Devid", 
+            "jobTitle": "Developer", 
+            "lastName": "Rome", 
+            "phoneNumber": "1111111", 
+            "region": "CA", 
+            "userId": "devid"
+        }, 
+        {
+            "emailAddress": "tin.jonson@learningcontainer.com", 
+            "employeeCode": "E3", 
+            "firstName": "tin", 
+            "jobTitle": "Program Directory", 
+            "lastName": "jonson", 
+            "phoneNumber": "2222222", 
+            "region": "CA", 
+            "userId": "tin"
+        }, 
+        {
+            "emailAddress": "d.rome@learningcontainer.com", 
+            "employeeCode": "teste5", 
+            "firstName": "teste3", 
+            "jobTitle": "teste2", 
+            "lastName": "teste4", 
+            "phoneNumber": "22", 
+            "region": "tes", 
+            "userId": "as"
+        }, 
+        {
+            "emailAddress": "", 
+            "employeeCode": "E2", 
+            "firstName": "kevyn", 
+            "jobTitle": "Developer", 
+            "lastName": "jhon", 
+            "phoneNumber": "1234567689", 
+            "region": "CA", 
+            "userId": "kevyn"
+        }, 
+        {
+            "emailAddress": "eleleleqelelelle.co", 
+            "employeeCode": "as", 
+            "firstName": "as", 
+            "jobTitle": "as", 
+            "lastName": "as", 
+            "phoneNumber": "121", 
+            "region": "as", 
+            "userId": "as"
+        }, 
+        {
+            "emailAddress": "jojoaasdasd.adoiweqgomail.com", 
+            "employeeCode": "CA", 
+            "firstName": "Joao", 
+            "jobTitle": "Developer ", 
+            "lastName": "Pinto", 
+            "phoneNumber": "989898989", 
+            "region": "CS", 
+            "userId": "Joao"
+        }
+    ]
+}
